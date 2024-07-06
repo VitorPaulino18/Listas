@@ -1,267 +1,360 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Telecine Action">
-    <display-name lang="pt">Telecine Action</display-name>
-    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0164.jpg" />
-    <url>http://www.tvinside.com.br</url>
-  </channel>
-  <channel id="Telecine Cult">
-    <display-name lang="pt">Telecine Cult</display-name>
-    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0168.jpg" />
-    <url>http://www.tvinside.com.br</url>
-  </channel>
-  <channel id="Telecine Fun">
-    <display-name lang="pt">Telecine Fun</display-name>
-    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0163.jpg" />
-    <url>http://www.tvinside.com.br</url>
-  </channel>
-  <channel id="Telecine Pipoca">
-    <display-name lang="pt">Telecine Pipoca</display-name>
-    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0167.jpg" />
-    <url>http://www.tvinside.com.br</url>
-  </channel>
-  <channel id="Telecine Premium">
-    <display-name lang="pt">Telecine Premium</display-name>
-    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0165.jpg" />
-    <url>http://www.tvinside.com.br</url>
-  </channel>
-  <channel id="Telecine Touch">
-    <display-name lang="pt">Telecine Touch</display-name>
-    <icon src="https://epg.tvinside.com.br/conteudo/medias/logos/48x29/0166.jpg" />
-    <url>http://www.tvinside.com.br</url>
-  </channel>
-  <programme start="20240706043500 -0300" stop="20240706062000 -0300" channel="Telecine Action">
-    <title lang="pt">Última Chance</title>
-  </programme>
-  <programme start="20240706062000 -0300" stop="20240706082000 -0300" channel="Telecine Action">
-    <title lang="pt">Polícia Federal - A Lei é para Todos</title>
-  </programme>
-  <programme start="20240706082000 -0300" stop="20240706101500 -0300" channel="Telecine Action">
-    <title lang="pt">Fuga da Meia-noite</title>
-  </programme>
-  <programme start="20240706101500 -0300" stop="20240706121500 -0300" channel="Telecine Action">
-    <title lang="pt">Os Jovens Pistoleiros</title>
-  </programme>
-  <programme start="20240706121500 -0300" stop="20240706141000 -0300" channel="Telecine Action">
-    <title lang="pt">VELOZES E FURIOSOS 4</title>
-  </programme>
-  <programme start="20240706141000 -0300" stop="20240706162000 -0300" channel="Telecine Action">
-    <title lang="pt">Jack Reacher - Sem Retorno</title>
-  </programme>
-  <programme start="20240706162000 -0300" stop="20240706181000 -0300" channel="Telecine Action">
-    <title lang="pt">Nos Braços de um Assassino</title>
-  </programme>
-  <programme start="20240706181000 -0300" stop="20240706200000 -0300" channel="Telecine Action">
-    <title lang="pt">O Sistema</title>
-  </programme>
-  <programme start="20240706200000 -0300" stop="20240706200500 -0300" channel="Telecine Action">
-    <title lang="pt">Preview</title>
-  </programme>
-  <programme start="20240706200500 -0300" stop="20240706220000 -0300" channel="Telecine Action">
-    <title lang="pt">Rogue - O Assassino</title>
-  </programme>
-  <programme start="20240706220000 -0300" stop="20240706234000 -0300" channel="Telecine Action">
-    <title lang="pt">Treinamento Brutal</title>
-  </programme>
-  <programme start="20240706234000 -0300" stop="20240707012500 -0300" channel="Telecine Action">
-    <title lang="pt">O Atirador - O Extermínio Final</title>
-  </programme>
-  <programme start="20240707031500 -0300" stop="20240707053500 -0300" channel="Telecine Action">
-    <title lang="pt">Hacker</title>
-  </programme>
-  <programme start="20240706060000 -0300" stop="20240706080000 -0300" channel="Telecine Cult">
-    <title lang="pt">De Repente, num Domingo</title>
-  </programme>
-  <programme start="20240706080000 -0300" stop="20240706100000 -0300" channel="Telecine Cult">
-    <title lang="pt">Edifício Master</title>
-  </programme>
-  <programme start="20240706100000 -0300" stop="20240706115500 -0300" channel="Telecine Cult">
-    <title lang="pt">Júnior</title>
-  </programme>
-  <programme start="20240706115500 -0300" stop="20240706141000 -0300" channel="Telecine Cult">
-    <title lang="pt">O SOL É PARA TODOS</title>
-  </programme>
-  <programme start="20240706141000 -0300" stop="20240706155500 -0300" channel="Telecine Cult">
-    <title lang="pt">Gosto de Cereja</title>
-  </programme>
-  <programme start="20240706155500 -0300" stop="20240706175500 -0300" channel="Telecine Cult">
-    <title lang="pt">O Grande Lebowski</title>
-  </programme>
-  <programme start="20240706175500 -0300" stop="20240706195500 -0300" channel="Telecine Cult">
-    <title lang="pt">E.t. - o Extraterrestre</title>
-  </programme>
-  <programme start="20240706195500 -0300" stop="20240706220000 -0300" channel="Telecine Cult">
-    <title lang="pt">Assunto de Família</title>
-  </programme>
-  <programme start="20240706220000 -0300" stop="20240706234500 -0300" channel="Telecine Cult">
-    <title lang="pt">Psicopata Americano</title>
-  </programme>
-  <programme start="20240706234500 -0300" stop="20240707013500 -0300" channel="Telecine Cult">
-    <title lang="pt">Quo Vadis, Aida?</title>
-  </programme>
-  <programme start="20240707013500 -0300" stop="20240707022000 -0300" channel="Telecine Cult">
-    <title lang="pt">A Órfã do Oceano</title>
-  </programme>
-  <programme start="20240707022000 -0300" stop="20240707041500 -0300" channel="Telecine Cult">
-    <title lang="pt">O Mundo de Gloria</title>
-  </programme>
-  <programme start="20240706052000 -0300" stop="20240706070000 -0300" channel="Telecine Fun">
-    <title lang="pt">A Volta do Todo Poderoso</title>
-  </programme>
-  <programme start="20240706070000 -0300" stop="20240706083000 -0300" channel="Telecine Fun">
-    <title lang="pt">Formiguinhaz</title>
-  </programme>
-  <programme start="20240706083000 -0300" stop="20240706100000 -0300" channel="Telecine Fun">
-    <title lang="pt">Perlimps</title>
-  </programme>
-  <programme start="20240706100000 -0300" stop="20240706113500 -0300" channel="Telecine Fun">
-    <title lang="pt">Yugo &amp; Lala 3</title>
-  </programme>
-  <programme start="20240706113500 -0300" stop="20240706130000 -0300" channel="Telecine Fun">
-    <title lang="pt">É Doce!</title>
-  </programme>
-  <programme start="20240706130000 -0300" stop="20240706145000 -0300" channel="Telecine Fun">
-    <title lang="pt">Um Tio Quase Perfeito 2</title>
-  </programme>
-  <programme start="20240706145000 -0300" stop="20240706164500 -0300" channel="Telecine Fun">
-    <title lang="pt">Um Tira no Jardim de Infância</title>
-  </programme>
-  <programme start="20240706164500 -0300" stop="20240706183500 -0300" channel="Telecine Fun">
-    <title lang="pt">O Pequeno Príncipe</title>
-  </programme>
-  <programme start="20240706183500 -0300" stop="20240706201500 -0300" channel="Telecine Fun">
-    <title lang="pt">Turbo</title>
-  </programme>
-  <programme start="20240706201500 -0300" stop="20240706220000 -0300" channel="Telecine Fun">
-    <title lang="pt">Policial em Apuros 2</title>
-  </programme>
-  <programme start="20240706220000 -0300" stop="20240706235500 -0300" channel="Telecine Fun">
-    <title lang="pt">Um Espião e Meio</title>
-  </programme>
-  <programme start="20240706235500 -0300" stop="20240707013000 -0300" channel="Telecine Fun">
-    <title lang="pt">Shrek 2</title>
-  </programme>
-  <programme start="20240707013000 -0300" stop="20240707031500 -0300" channel="Telecine Fun">
-    <title lang="pt">Não Vai Dar</title>
-  </programme>
-  <programme start="20240707031500 -0300" stop="20240707054000 -0300" channel="Telecine Fun">
-    <title lang="pt">Detetive Chinatown 3</title>
-  </programme>
-  <programme start="20240706051000 -0300" stop="20240706071000 -0300" channel="Telecine Pipoca">
-    <title lang="pt">Kill Bill - Volume 1</title>
-  </programme>
-  <programme start="20240706071000 -0300" stop="20240706084000 -0300" channel="Telecine Pipoca">
-    <title lang="pt">Fala Sério, Mãe!</title>
-  </programme>
-  <programme start="20240706084000 -0300" stop="20240706102000 -0300" channel="Telecine Pipoca">
-    <title lang="pt">As Apimentadas - Mandando Ver</title>
-  </programme>
-  <programme start="20240706102000 -0300" stop="20240706121000 -0300" channel="Telecine Pipoca">
-    <title lang="pt">Nanny Mcphee - a Babá Encantada</title>
-  </programme>
-  <programme start="20240706121000 -0300" stop="20240706135500 -0300" channel="Telecine Pipoca">
-    <title lang="pt">No Caminho Certo</title>
-  </programme>
-  <programme start="20240706135500 -0300" stop="20240706140000 -0300" channel="Telecine Pipoca">
-    <title lang="pt">Preview</title>
-  </programme>
-  <programme start="20240706140000 -0300" stop="20240706160000 -0300" channel="Telecine Pipoca">
-    <title lang="pt">Do Jeito que elas Querem - O Próximo Capítulo</title>
-  </programme>
-  <programme start="20240706160000 -0300" stop="20240706175000 -0300" channel="Telecine Pipoca">
-    <title lang="pt">Casa Comigo?</title>
-  </programme>
-  <programme start="20240706175000 -0300" stop="20240706200000 -0300" channel="Telecine Pipoca">
-    <title lang="pt">Viagem das Garotas</title>
-  </programme>
-  <programme start="20240706200000 -0300" stop="20240706220000 -0300" channel="Telecine Pipoca">
-    <title lang="pt">Dois É Demais em Orlando</title>
-  </programme>
-  <programme start="20240706220000 -0300" stop="20240706235500 -0300" channel="Telecine Pipoca">
-    <title lang="pt">Cartas para Julieta</title>
-  </programme>
-  <programme start="20240706235500 -0300" stop="20240707014500 -0300" channel="Telecine Pipoca">
-    <title lang="pt">Os Mercenários 4</title>
-  </programme>
-  <programme start="20240707014500 -0300" stop="20240707034000 -0300" channel="Telecine Pipoca">
-    <title lang="pt">O Escorpião Rei 4 - Na Busca pelo Poder</title>
-  </programme>
-  <programme start="20240707034000 -0300" stop="20240707053500 -0300" channel="Telecine Pipoca">
-    <title lang="pt">Má Conduta</title>
-  </programme>
-  <programme start="20240706054000 -0300" stop="20240706072500 -0300" channel="Telecine Premium">
-    <title lang="pt">Seis Minutos para Meia-Noite</title>
-  </programme>
-  <programme start="20240706072500 -0300" stop="20240706091000 -0300" channel="Telecine Premium">
-    <title lang="pt">O Ritual - Presença Maligna</title>
-  </programme>
-  <programme start="20240706091000 -0300" stop="20240706105000 -0300" channel="Telecine Premium">
-    <title lang="pt">Mistério em Alto Mar</title>
-  </programme>
-  <programme start="20240706105000 -0300" stop="20240706123000 -0300" channel="Telecine Premium">
-    <title lang="pt">Ó Paí, Ó 2</title>
-  </programme>
-  <programme start="20240706123000 -0300" stop="20240706142000 -0300" channel="Telecine Premium">
-    <title lang="pt">Vigaristas em Hollywood</title>
-  </programme>
-  <programme start="20240706142000 -0300" stop="20240706162000 -0300" channel="Telecine Premium">
-    <title lang="pt">Minha Família Quer que eu Case</title>
-  </programme>
-  <programme start="20240706162000 -0300" stop="20240706180500 -0300" channel="Telecine Premium">
-    <title lang="pt">Renfield - Dando Sangue pelo Chefe</title>
-  </programme>
-  <programme start="20240706180500 -0300" stop="20240706200000 -0300" channel="Telecine Premium">
-    <title lang="pt">A Profissional</title>
-  </programme>
-  <programme start="20240706200000 -0300" stop="20240706220000 -0300" channel="Telecine Premium">
-    <title lang="pt">Five Nights at Freddy's - O Pesadelo sem Fim</title>
-  </programme>
-  <programme start="20240706220000 -0300" stop="20240707000000 -0300" channel="Telecine Premium">
-    <title lang="pt">Os Três Mosqueteiros - Milady</title>
-  </programme>
-  <programme start="20240707000000 -0300" stop="20240707021500 -0300" channel="Telecine Premium">
-    <title lang="pt">Não! Não Olhe!</title>
-  </programme>
-  <programme start="20240707021500 -0300" stop="20240707040000 -0300" channel="Telecine Premium">
-    <title lang="pt">Rota de Fuga 3 - O Resgate</title>
-  </programme>
-  <programme start="20240706040000 -0300" stop="20240706062000 -0300" channel="Telecine Touch">
-    <title lang="pt">O Mauritano</title>
-  </programme>
-  <programme start="20240706062000 -0300" stop="20240706080500 -0300" channel="Telecine Touch">
-    <title lang="pt">Antes que eu Vá</title>
-  </programme>
-  <programme start="20240706080500 -0300" stop="20240706102500 -0300" channel="Telecine Touch">
-    <title lang="pt">O Dia do Atentado</title>
-  </programme>
-  <programme start="20240706102500 -0300" stop="20240706121500 -0300" channel="Telecine Touch">
-    <title lang="pt">O Despertar do Tigre</title>
-  </programme>
-  <programme start="20240706121500 -0300" stop="20240706141000 -0300" channel="Telecine Touch">
-    <title lang="pt">O Livro de Henry</title>
-  </programme>
-  <programme start="20240706141000 -0300" stop="20240706160500 -0300" channel="Telecine Touch">
-    <title lang="pt">Amor em Little Italy</title>
-  </programme>
-  <programme start="20240706160500 -0300" stop="20240706175000 -0300" channel="Telecine Touch">
-    <title lang="pt">O Estranho que nós Amamos</title>
-  </programme>
-  <programme start="20240706175000 -0300" stop="20240706193500 -0300" channel="Telecine Touch">
-    <title lang="pt">A Escolha Perfeita 3</title>
-  </programme>
-  <programme start="20240706193500 -0300" stop="20240706220000 -0300" channel="Telecine Touch">
-    <title lang="pt">Simplesmente Amor</title>
-  </programme>
-  <programme start="20240706220000 -0300" stop="20240706234000 -0300" channel="Telecine Touch">
-    <title lang="pt">QUERO FICAR COM POLLY</title>
-  </programme>
-  <programme start="20240706234000 -0300" stop="20240706234500 -0300" channel="Telecine Touch">
-    <title lang="pt">Preview</title>
-  </programme>
-  <programme start="20240706234500 -0300" stop="20240707015500 -0300" channel="Telecine Touch">
-    <title lang="pt">Enquanto Estivermos Juntos</title>
-  </programme>
-  <programme start="20240707015500 -0300" stop="20240707035000 -0300" channel="Telecine Touch">
-    <title lang="pt">Vingança</title>
-  </programme>
+<channel id="Canal 2">
+    <display-name>2</display-name>
+</channel>
+<channel id="TV Câmara">
+    <display-name>3</display-name>
+</channel>
+<channel id="TV Brasil">
+    <display-name>4</display-name>
+</channel>
+<channel id=" TV Brasil 2">
+    <display-name>5</display-name>
+</channel>
+<channel id="TV Justiça">
+    <display-name>6</display-name>
+</channel>
+<channel id="Canal Legislativo">
+    <display-name>7</display-name>
+</channel>
+<programme start="20240706000000 -0300" stop="20240706060000 -0300" channel="Canal 2">
+  <title>Programação Canal 2</title>
+</programme>
+<programme start="20240706060000 -0300" stop="20240706120000 -0300" channel="Canal 2">
+  <title>Programação Canal 2</title>
+</programme>
+<programme start="20240706120000 -0300" stop="20240706180000 -0300" channel="Canal 2">
+  <title>Programação Canal 2</title>
+</programme>
+<programme start="20240706180000 -0300" stop="20240707000000 -0300" channel="Canal 2">
+  <title>Programação Canal 2</title>
+</programme>
+<programme start="20240706000000 -0300" stop="20240706003000 -0300" channel="TV Câmara">
+  <title>Documentário TV Câmara</title>
+</programme>
+<programme start="20240706003000 -0300" stop="20240706010000 -0300" channel="TV Câmara">
+  <title>Qual a Questão?</title>
+</programme>
+<programme start="20240706010000 -0300" stop="20240706013000 -0300" channel="TV Câmara">
+  <title>Parlamento Brasil</title>
+</programme>
+<programme start="20240706013000 -0300" stop="20240706020000 -0300" channel="TV Câmara">
+  <title>Elas Pautam</title>
+</programme>
+<programme start="20240706020000 -0300" stop="20240706070000 -0300" channel="TV Câmara">
+  <title>Reapresentação de Comissão</title>
+</programme>
+<programme start="20240706070000 -0300" stop="20240706073000 -0300" channel="TV Câmara">
+  <title>Câmara Debate</title>
+</programme>
+<programme start="20240706073000 -0300" stop="20240706080000 -0300" channel="TV Câmara">
+  <title>Ciência Sem Limites</title>
+</programme>
+<programme start="20240706080000 -0300" stop="20240706090000 -0300" channel="TV Câmara">
+  <title>Expressão Nacional</title>
+</programme>
+<programme start="20240706090000 -0300" stop="20240706093000 -0300" channel="TV Câmara">
+  <title>Fatos e Opiniões</title>
+</programme>
+<programme start="20240706093000 -0300" stop="20240706100000 -0300" channel="TV Câmara">
+  <title>Interesse Público</title>
+</programme>
+<programme start="20240706100000 -0300" stop="20240706130000 -0300" channel="TV Câmara">
+  <title>Reapresentação de Comissão</title>
+</programme>
+<programme start="20240706130000 -0300" stop="20240706140000 -0300" channel="TV Câmara">
+  <title>Ponto de Vista</title>
+</programme>
+<programme start="20240706140000 -0300" stop="20240706143000 -0300" channel="TV Câmara">
+  <title>Câmara Debate</title>
+</programme>
+<programme start="20240706143000 -0300" stop="20240706150000 -0300" channel="TV Câmara">
+  <title>Elas Pautam</title>
+</programme>
+<programme start="20240706150000 -0300" stop="20240706160000 -0300" channel="TV Câmara">
+  <title>Documentário TV Câmara</title>
+</programme>
+<programme start="20240706160000 -0300" stop="20240706171500 -0300" channel="TV Câmara">
+  <title>Participação Popular</title>
+</programme>
+<programme start="20240706173000 -0300" stop="20240706180000 -0300" channel="TV Câmara">
+  <title>Documentário TV Câmara</title>
+</programme>
+<programme start="20240706180000 -0300" stop="20240706183000 -0300" channel="TV Câmara">
+  <title>Qual a Questão?</title>
+</programme>
+<programme start="20240706183000 -0300" stop="20240706190000 -0300" channel="TV Câmara">
+  <title>Parlamento Brasil</title>
+</programme>
+<programme start="20240706190000 -0300" stop="20240706200000 -0300" channel="TV Câmara">
+  <title>Bora Entender?</title>
+</programme>
+<programme start="20240706200000 -0300" stop="20240706203000 -0300" channel="TV Câmara">
+  <title>Ciência Sem Limites</title>
+</programme>
+<programme start="20240706203000 -0300" stop="20240706213000 -0300" channel="TV Câmara">
+  <title>Documentário TV Câmara</title>
+</programme>
+<programme start="20240706213000 -0300" stop="20240706220000 -0300" channel="TV Câmara">
+  <title>Elas Pautam</title>
+</programme>
+<programme start="20240706220000 -0300" stop="20240706223000 -0300" channel="TV Câmara">
+  <title>Documentário TV Câmara</title>
+</programme>
+<programme start="20240706223000 -0300" stop="20240706230000 -0300" channel="TV Câmara">
+  <title>Fatos e Opiniões</title>
+</programme>
+<programme start="20240706230000 -0300" stop="20240706233000 -0300" channel="TV Câmara">
+  <title>Qual a Questão?</title>
+</programme>
+<programme start="20240706233000 -0300" stop="20240707003000 -0300" channel="TV Câmara">
+  <title>Expressão Nacional</title>
+</programme>
+<programme start="20240706013000 -0300" stop="20240706023000 -0300" channel="TV Brasil">
+  <title>Um Milagre</title>
+</programme>
+<programme start="20240706023000 -0300" stop="20240706030000 -0300" channel="TV Brasil">
+  <title>Brasil Visto de Cima</title>
+</programme>
+<programme start="20240706030000 -0300" stop="20240706033000 -0300" channel="TV Brasil">
+  <title>Dramaturgias</title>
+</programme>
+<programme start="20240706033000 -0300" stop="20240706040000 -0300" channel="TV Brasil">
+  <title>Bem Bahia</title>
+</programme>
+<programme start="20240706040000 -0300" stop="20240706043000 -0300" channel="TV Brasil">
+  <title>Rastro dos Bichos</title>
+</programme>
+<programme start="20240706043000 -0300" stop="20240706050000 -0300" channel="TV Brasil">
+  <title>Terra Viva</title>
+</programme>
+<programme start="20240706050000 -0300" stop="20240706053000 -0300" channel="TV Brasil">
+  <title>Mata Viva: Cágado da Serra</title>
+</programme>
+<programme start="20240706053000 -0300" stop="20240706060000 -0300" channel="TV Brasil">
+  <title>Brasil Visto de Cima</title>
+</programme>
+<programme start="20240706060000 -0300" stop="20240706070000 -0300" channel="TV Brasil">
+  <title>Vale Agrícola</title>
+</programme>
+<programme start="20240706095100 -0300" stop="20240706101400 -0300" channel="TV Brasil">
+  <title>Meu Amigãozão</title>
+</programme>
+<programme start="20240706104900 -0300" stop="20240706111500 -0300" channel="TV Brasil">
+  <title>Manual de Sobrevivência da Literatura Brasileira</title>
+</programme>
+<programme start="20240706111500 -0300" stop="20240706114500 -0300" channel="TV Brasil">
+  <title>D.P.A. - Detetives do Prédio Azul</title>
+</programme>
+<programme start="20240706120000 -0300" stop="20240706123000 -0300" channel="TV Brasil">
+  <title>Bugados</title>
+</programme>
+<programme start="20240706123000 -0300" stop="20240706130000 -0300" channel="TV Brasil">
+  <title>Cozinha Amazônia</title>
+</programme>
+<programme start="20240706130000 -0300" stop="20240706133000 -0300" channel="TV Brasil">
+  <title>Restauro – A Memória da Arte</title>
+</programme>
+<programme start="20240706133000 -0300" stop="20240706144500 -0300" channel="TV Brasil">
+  <title>Sessão de Cinema: A Sede do Peixe - Milton Nascimento</title>
+</programme>
+<programme start="20240706144500 -0300" stop="20240706170000 -0300" channel="TV Brasil">
+  <title>Campeonato Brasileiro de Futebol Feminino</title>
+</programme>
+<programme start="20240706170000 -0300" stop="20240706190000 -0300" channel="TV Brasil">
+  <title>Campeonato Brasileiro de Futebol Feminino</title>
+</programme>
+<programme start="20240706190000 -0300" stop="20240706193000 -0300" channel="TV Brasil">
+  <title>Repórter Brasil</title>
+</programme>
+<programme start="20240706193000 -0300" stop="20240706200000 -0300" channel="TV Brasil">
+  <title>Amor Veríssimo</title>
+</programme>
+<programme start="20240706200000 -0300" stop="20240706204500 -0300" channel="TV Brasil">
+  <title>Um Milagre</title>
+</programme>
+<programme start="20240706204500 -0300" stop="20240706230000 -0300" channel="TV Brasil">
+  <title>Campeonato Brasileiro de Futebol Feminino</title>
+</programme>
+<programme start="20240706230000 -0300" stop="20240707000000 -0300" channel="TV Brasil">
+  <title>Um Contra Todos</title>
+</programme>
+<programme start="20240706000000 -0300" stop="20240706003000 -0300" channel=" TV Brasil 2">
+  <title>Mulheres pela Independência</title>
+</programme>
+<programme start="20240706003000 -0300" stop="20240706010000 -0300" channel=" TV Brasil 2">
+  <title>Mitos Vivos</title>
+</programme>
+<programme start="20240706010000 -0300" stop="20240706013000 -0300" channel=" TV Brasil 2">
+  <title>Canal da Quebrada</title>
+</programme>
+<programme start="20240706013000 -0300" stop="20240706020000 -0300" channel=" TV Brasil 2">
+  <title>Conhecendo Museus</title>
+</programme>
+<programme start="20240706020000 -0300" stop="20240706023000 -0300" channel=" TV Brasil 2">
+  <title>Trilha de Letras</title>
+</programme>
+<programme start="20240706023000 -0300" stop="20240706033000 -0300" channel=" TV Brasil 2">
+  <title>Partituras</title>
+</programme>
+<programme start="20240706033000 -0300" stop="20240706040000 -0300" channel=" TV Brasil 2">
+  <title>Brasil em Pauta</title>
+</programme>
+<programme start="20240706040000 -0300" stop="20240706043000 -0300" channel=" TV Brasil 2">
+  <title>Canal da Quebrada</title>
+</programme>
+<programme start="20240706043000 -0300" stop="20240706050000 -0300" channel=" TV Brasil 2">
+  <title>Mulheres pela Independência</title>
+</programme>
+<programme start="20240706050000 -0300" stop="20240706053000 -0300" channel=" TV Brasil 2">
+  <title>Mitos Vivos</title>
+</programme>
+<programme start="20240706053000 -0300" stop="20240706060000 -0300" channel=" TV Brasil 2">
+  <title>Expedições</title>
+</programme>
+<programme start="20240706060000 -0300" stop="20240706063000 -0300" channel=" TV Brasil 2">
+  <title>Nossos Biomas</title>
+</programme>
+<programme start="20240706063000 -0300" stop="20240706070000 -0300" channel=" TV Brasil 2">
+  <title>Parques do Brasil</title>
+</programme>
+<programme start="20240706070000 -0300" stop="20240706073000 -0300" channel=" TV Brasil 2">
+  <title>Expedições</title>
+</programme>
+<programme start="20240706073000 -0300" stop="20240706080000 -0300" channel=" TV Brasil 2">
+  <title>Meu Pedaço do Brasil</title>
+</programme>
+<programme start="20240706080000 -0300" stop="20240706090000 -0300" channel=" TV Brasil 2">
+  <title>Agro Nacional</title>
+</programme>
+<programme start="20240706090000 -0300" stop="20240706093000 -0300" channel=" TV Brasil 2">
+  <title>Trilha de Letras</title>
+</programme>
+<programme start="20240706093000 -0300" stop="20240706100000 -0300" channel=" TV Brasil 2">
+  <title>Resumo da Semana</title>
+</programme>
+<programme start="20240706100000 -0300" stop="20240706103000 -0300" channel=" TV Brasil 2">
+  <title>Conhecendo Museus</title>
+</programme>
+<programme start="20240706103000 -0300" stop="20240706110000 -0300" channel=" TV Brasil 2">
+  <title>Nossos Biomas</title>
+</programme>
+<programme start="20240706110000 -0300" stop="20240706113000 -0300" channel=" TV Brasil 2">
+  <title>Parques do Brasil</title>
+</programme>
+<programme start="20240706113000 -0300" stop="20240706120000 -0300" channel=" TV Brasil 2">
+  <title>Brasil em Pauta</title>
+</programme>
+<programme start="20240706120000 -0300" stop="20240706203000 -0300" channel=" TV Brasil 2">
+  <title>Atos do Executivo</title>
+</programme>
+<programme start="20240706203000 -0300" stop="20240706210000 -0300" channel=" TV Brasil 2">
+  <title>Brasil em Pauta</title>
+</programme>
+<programme start="20240706210000 -0300" stop="20240706213000 -0300" channel=" TV Brasil 2">
+  <title>Nossos Biomas</title>
+</programme>
+<programme start="20240706213000 -0300" stop="20240706220000 -0300" channel=" TV Brasil 2">
+  <title>Parques do Brasil</title>
+</programme>
+<programme start="20240706220000 -0300" stop="20240706223000 -0300" channel=" TV Brasil 2">
+  <title>Expedições</title>
+</programme>
+<programme start="20240706223000 -0300" stop="20240706230000 -0300" channel=" TV Brasil 2">
+  <title>Meu Pedaço do Brasil</title>
+</programme>
+<programme start="20240706230000 -0300" stop="20240706233000 -0300" channel=" TV Brasil 2">
+  <title>Trilha de Letras</title>
+</programme>
+<programme start="20240706233000 -0300" stop="20240707000000 -0300" channel=" TV Brasil 2">
+  <title>Brasil em Pauta</title>
+</programme>
+<programme start="20240706000000 -0300" stop="20240706003000 -0300" channel="TV Justiça">
+  <title>Brasil em Constituição</title>
+</programme>
+<programme start="20240706003000 -0300" stop="20240706010000 -0300" channel="TV Justiça">
+  <title>200 Anos da Constituição Do Império</title>
+</programme>
+<programme start="20240706010000 -0300" stop="20240706020000 -0300" channel="TV Justiça">
+  <title>Saber Direito - Aula</title>
+</programme>
+<programme start="20240706020000 -0300" stop="20240706023000 -0300" channel="TV Justiça">
+  <title>Artigo 5º</title>
+</programme>
+<programme start="20240706023000 -0300" stop="20240706030000 -0300" channel="TV Justiça">
+  <title>Interesse Público</title>
+</programme>
+<programme start="20240706030000 -0300" stop="20240706040000 -0300" channel="TV Justiça">
+  <title>Jornal da Justiça</title>
+</programme>
+<programme start="20240706040000 -0300" stop="20240706050000 -0300" channel="TV Justiça">
+  <title>Cartório Contemporâneo</title>
+</programme>
+<programme start="20240706050000 -0300" stop="20240706053000 -0300" channel="TV Justiça">
+  <title>Sergipe Justiça</title>
+</programme>
+<programme start="20240706053000 -0300" stop="20240706060000 -0300" channel="TV Justiça">
+  <title>Inteiro Teor</title>
+</programme>
+<programme start="20240706060000 -0300" stop="20240706063000 -0300" channel="TV Justiça">
+  <title>Pensamento Jurídico</title>
+</programme>
+<programme start="20240706063000 -0300" stop="20240706070000 -0300" channel="TV Justiça">
+  <title>Justiça &amp; Trabalho</title>
+</programme>
+<programme start="20240706070000 -0300" stop="20240706080000 -0300" channel="TV Justiça">
+  <title>Entender Direito</title>
+</programme>
+<programme start="20240706080000 -0300" stop="20240706130000 -0300" channel="TV Justiça">
+  <title>Maratona Saber Direito</title>
+</programme>
+<programme start="20240706130000 -0300" stop="20240706133000 -0300" channel="TV Justiça">
+  <title>Justiça em Questão</title>
+</programme>
+<programme start="20240706133000 -0300" stop="20240706140000 -0300" channel="TV Justiça">
+  <title>Pensamento Jurídico</title>
+</programme>
+<programme start="20240706140000 -0300" stop="20240706173000 -0300" channel="TV Justiça">
+  <title>Sessão Parceiros</title>
+</programme>
+<programme start="20240706173000 -0300" stop="20240706180000 -0300" channel="TV Justiça">
+  <title>Plenárias</title>
+</programme>
+<programme start="20240706180000 -0300" stop="20240706183000 -0300" channel="TV Justiça">
+  <title>OAB Nacional</title>
+</programme>
+<programme start="20240706183000 -0300" stop="20240706190000 -0300" channel="TV Justiça">
+  <title>Link CNJ</title>
+</programme>
+<programme start="20240706190000 -0300" stop="20240706193000 -0300" channel="TV Justiça">
+  <title>3 e Uma</title>
+</programme>
+<programme start="20240706193000 -0300" stop="20240706200000 -0300" channel="TV Justiça">
+  <title>Revista TST</title>
+</programme>
+<programme start="20240706200000 -0300" stop="20240706203000 -0300" channel="TV Justiça">
+  <title>Memória Refrão</title>
+</programme>
+<programme start="20240706203000 -0300" stop="20240706210000 -0300" channel="TV Justiça">
+  <title>Memória Refrão</title>
+</programme>
+<programme start="20240706210000 -0300" stop="20240706220000 -0300" channel="TV Justiça">
+  <title>Noturno</title>
+</programme>
+<programme start="20240706220000 -0300" stop="20240707000000 -0300" channel="TV Justiça">
+  <title>Música Clássica</title>
+</programme>
+<programme start="20240706000000 -0300" stop="20240706060000 -0300" channel="Canal Legislativo">
+  <title>Programação Canal Legislativo</title>
+</programme>
+<programme start="20240706060000 -0300" stop="20240706120000 -0300" channel="Canal Legislativo">
+  <title>Programação Canal Legislativo</title>
+</programme>
+<programme start="20240706120000 -0300" stop="20240706180000 -0300" channel="Canal Legislativo">
+  <title>Programação Canal Legislativo</title>
+</programme>
+<programme start="20240706180000 -0300" stop="20240707000000 -0300" channel="Canal Legislativo">
+  <title>Programação Canal Legislativo</title>
+</programme>
 </tv>
