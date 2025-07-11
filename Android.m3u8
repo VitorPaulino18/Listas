@@ -5,6 +5,8 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="Governamental",Canal Libras
 https://canallibras-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/TCM.png" group-title="Filmes",TCM
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/CanalUol.png" group-title="Notícias",Canal Uol
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 #EXTINF:-1 group-title="Notícias" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/CNNBrasilMoney.png",CNN Brasil Money
