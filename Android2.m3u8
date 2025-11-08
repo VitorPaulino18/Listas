@@ -15,5 +15,5 @@ https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="Governamental",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 group-title="Governamental",TV Cultura
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/Streaming/PrimeVideo.png" group-title="Governamental",Internacional x Atlético MG
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
