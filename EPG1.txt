@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="SeuAppGerador" generator-info-url="http://seusite.com">
+
+    <channel id="canal1.br">
+        <display-name lang="pt">Canal Exemplo 1 HD</display-name>
+        <display-name lang="en">Example Channel 1 HD</display-name>
+        <icon src="http://seusite.com/logos/canal1.png"/>
+    </channel>
+
+    <channel id="canal2.br">
+        <display-name lang="pt">Ação Total 24h</display-name>
+        <icon src="http://seusite.com/logos/canal2.png"/>
+    </channel>
+
+    <programme start="20251112180000 -0300" stop="20251112190000 -0300" channel="canal1.br">
+        <title lang="pt">Jornal Diário</title>
+        <desc lang="pt">Notícias e manchetes do Brasil e do mundo.</desc>
+        <category lang="pt">Notícias</category>
+        <language>Português</language>
+        <rating>
+            <value>Livre</value>
+        </rating>
+    </programme>
+
+    <programme start="20251112190000 -0300" stop="20251112210000 -0300" channel="canal1.br">
+        <title lang="pt">Filme da Noite</title>
+        <desc lang="pt">Um épico de ficção científica sobre robôs em um futuro distante.</desc>
+        <category lang="pt">Filme / Ficção Científica</category>
+        <date>2018</date>
+        <star-rating>
+            <value>4/5</value>
+        </star-rating>
+    </programme>
+
+    <programme start="20251112200000 -0300" stop="20251112220000 -0300" channel="canal2.br">
+        <title lang="pt">Luta Livre Extrema</title>
+        <desc lang="pt">O evento principal da semana, com os maiores nomes do esporte.</desc>
+        <category lang="pt">Esporte / Luta</category>
+        <episode-num system="xmltv_ns">1.2/3</episode-num> </programme>
+
+</tv>
