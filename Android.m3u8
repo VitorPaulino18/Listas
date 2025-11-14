@@ -13,7 +13,7 @@ https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
 #EXTINF:-1 group-title="Governamental",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="Governamental",TV Cultura
+#EXTINF:-1  tvg-id="Cultura" group-title="Governamental",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-logo="https://img.xttv.com.br/public/station_logos/public/9de779d8-14c7-4419-8791-8a7ad4da690d.png" group-title="Variedades",Geekdot
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
