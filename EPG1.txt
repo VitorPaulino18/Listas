@@ -1,43 +1,2256 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-
-<tv generator-info-name="SeuAppGerador" generator-info-url="http://seusite.com">
-
-    <channel id="canal1.br">
-        <display-name lang="pt">Canal Exemplo 1 HD</display-name>
-        <display-name lang="en">Example Channel 1 HD</display-name>
-        <icon src="http://seusite.com/logos/canal1.png"/>
-    </channel>
-
-    <channel id="canal2.br">
-        <display-name lang="pt">Ação Total 24h</display-name>
-        <icon src="http://seusite.com/logos/canal2.png"/>
-    </channel>
-
-    <programme start="20251112180000 -0300" stop="20251112190000 -0300" channel="canal1.br">
-        <title lang="pt">Jornal Diário</title>
-        <desc lang="pt">Notícias e manchetes do Brasil e do mundo.</desc>
-        <category lang="pt">Notícias</category>
-        <language>Português</language>
-        <rating>
-            <value>Livre</value>
-        </rating>
-    </programme>
-
-    <programme start="20251112190000 -0300" stop="20251112210000 -0300" channel="canal1.br">
-        <title lang="pt">Filme da Noite</title>
-        <desc lang="pt">Um épico de ficção científica sobre robôs em um futuro distante.</desc>
-        <category lang="pt">Filme / Ficção Científica</category>
-        <date>2018</date>
-        <star-rating>
-            <value>4/5</value>
-        </star-rating>
-    </programme>
-
-    <programme start="20251112200000 -0300" stop="20251112220000 -0300" channel="canal2.br">
-        <title lang="pt">Luta Livre Extrema</title>
-        <desc lang="pt">O evento principal da semana, com os maiores nomes do esporte.</desc>
-        <category lang="pt">Esporte / Luta</category>
-        <episode-num system="xmltv_ns">1.2/3</episode-num> </programme>
-
+<tv>
+  <channel id="Canal 2">
+    <display-name>Canal 2</display-name>
+  </channel>
+  <channel id="TV Câmara">
+    <display-name>TV Câmara</display-name>
+  </channel>
+  <channel id="TV Brasil">
+    <display-name>TV Brasil</display-name>
+  </channel>
+  <channel id="TV Brasil 2">
+    <display-name>TV Brasil 2</display-name>
+  </channel>
+  <channel id="TV Justiça">
+    <display-name>TV Justiça</display-name>
+  </channel>
+  <channel id="Canal Legislativo">
+    <display-name>Canal Legislativo</display-name>
+  </channel>
+  <channel id="TV Escola">
+    <display-name>TV Escola</display-name>
+  </channel>
+  <channel id="Canal Comunitário">
+    <display-name>Canal Comunitário</display-name>
+  </channel>
+  <channel id="TV Senado">
+    <display-name>TV Senado</display-name>
+  </channel>
+  <channel id="Canal Universitário">
+    <display-name>Canal Universitário</display-name>
+  </channel>
+  <channel id="RIT TV">
+    <display-name>RIT TV</display-name>
+  </channel>
+  <channel id="TV Pai Eterno">
+    <display-name>TV Pai Eterno</display-name>
+  </channel>
+  <channel id="Cultura">
+    <display-name>Cultura</display-name>
+  </channel>
+  <channel id="SBT">
+    <display-name>SBT</display-name>
+  </channel>
+  <channel id="Globo">
+    <display-name>Globo</display-name>
+  </channel>
+  <channel id="Record">
+    <display-name>Record</display-name>
+  </channel>
+  <channel id="Rede TV">
+    <display-name>Rede TV</display-name>
+  </channel>
+  <channel id="Gazeta">
+    <display-name>Gazeta</display-name>
+  </channel>
+  <channel id="Band">
+    <display-name>Band</display-name>
+  </channel>
+  <channel id="Mega TV">
+    <display-name>Mega TV</display-name>
+  </channel>
+  <channel id="Rede 21">
+    <display-name>Rede 21</display-name>
+  </channel>
+  <channel id="Rede Gospel">
+    <display-name>Rede Gospel</display-name>
+  </channel>
+  <channel id="Polishop">
+    <display-name>Polishop</display-name>
+  </channel>
+  <channel id="Shoptime">
+    <display-name>Shoptime</display-name>
+  </channel>
+  <channel id="Canal do cliente">
+    <display-name>Canal do cliente</display-name>
+  </channel>
+  <channel id="Futura">
+    <display-name>Futura</display-name>
+  </channel>
+  <channel id="Off">
+    <display-name>Off</display-name>
+  </channel>
+  <channel id="SporTV 3">
+    <display-name>SporTV 3</display-name>
+  </channel>
+  <channel id="SporTV 2">
+    <display-name>SporTV 2</display-name>
+  </channel>
+  <channel id="SporTV">
+    <display-name>SporTV</display-name>
+  </channel>
+  <channel id="GloboNews">
+    <display-name>GloboNews</display-name>
+  </channel>
+  <channel id="GNT">
+    <display-name>GNT</display-name>
+  </channel>
+  <channel id="Multishow">
+    <display-name>Multishow</display-name>
+  </channel>
+  <channel id="Viva">
+    <display-name>Viva</display-name>
+  </channel>
+  <channel id="Modo viagem">
+    <display-name>Modo viagem</display-name>
+  </channel>
+  <channel id="E">
+    <display-name>E</display-name>
+  </channel>
+  <channel id="TLC">
+    <display-name>TLC</display-name>
+  </channel>
+  <channel id="Arte 1">
+    <display-name>Arte 1</display-name>
+  </channel>
+  <channel id="Food Network">
+    <display-name>Food Network</display-name>
+  </channel>
+  <channel id="Discovery Home  Health">
+    <display-name>Discovery Home  Health</display-name>
+  </channel>
+  <channel id="Curta">
+    <display-name>Curta</display-name>
+  </channel>
+  <channel id="FISH TV">
+    <display-name>FISH TV</display-name>
+  </channel>
+  <channel id="HGTV">
+    <display-name>HGTV</display-name>
+  </channel>
+  <channel id="Woohoo">
+    <display-name>Woohoo</display-name>
+  </channel>
+  <channel id="ESPN">
+    <display-name>ESPN</display-name>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name>ESPN 2</display-name>
+  </channel>
+  <channel id="Espn 4">
+    <display-name>Espn 4</display-name>
+  </channel>
+  <channel id="Band Sports">
+    <display-name>Band Sports</display-name>
+  </channel>
+  <channel id="CNN Brasil">
+    <display-name>CNN Brasil</display-name>
+  </channel>
+  <channel id="Record News">
+    <display-name>Record News</display-name>
+  </channel>
+  <channel id="Band News">
+    <display-name>Band News</display-name>
+  </channel>
+  <channel id="National Geographic">
+    <display-name>National Geographic</display-name>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name>Discovery Channel</display-name>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name>Animal Planet</display-name>
+  </channel>
+  <channel id="The History Channel">
+    <display-name>The History Channel</display-name>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name>Discovery Turbo</display-name>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name>Discovery Science</display-name>
+  </channel>
+  <channel id="Gloobinho">
+    <display-name>Gloobinho</display-name>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name>Discovery Kids</display-name>
+  </channel>
+  <channel id="Gloob">
+    <display-name>Gloob</display-name>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name>Disney Channel</display-name>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name>Nickelodeon</display-name>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name>Cartoon Network</display-name>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name>Nick Jr.</display-name>
+  </channel>
+  <channel id="cartoonito">
+    <display-name>cartoonito</display-name>
+  </channel>
+  <channel id="TV Rá Tim Bum">
+    <display-name>TV Rá Tim Bum</display-name>
+  </channel>
+  <channel id="Baby Tv">
+    <display-name>Baby Tv</display-name>
+  </channel>
+  <channel id="ZooMoo">
+    <display-name>ZooMoo</display-name>
+  </channel>
+  <channel id="BIS">
+    <display-name>BIS</display-name>
+  </channel>
+  <channel id="MTV">
+    <display-name>MTV</display-name>
+  </channel>
+  <channel id="Play TV">
+    <display-name>Play TV</display-name>
+  </channel>
+  <channel id="Music Box Brazil">
+    <display-name>Music Box Brazil</display-name>
+  </channel>
+  <channel id="Universal TV">
+    <display-name>Universal TV</display-name>
+  </channel>
+  <channel id="Star Channel">
+    <display-name>Star Channel</display-name>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name>Warner Channel</display-name>
+  </channel>
+  <channel id="Sony">
+    <display-name>Sony</display-name>
+  </channel>
+  <channel id="FX">
+    <display-name>FX</display-name>
+  </channel>
+  <channel id="AXN">
+    <display-name>AXN</display-name>
+  </channel>
+  <channel id="Tnt novelas">
+    <display-name>Tnt novelas</display-name>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name>Comedy Central</display-name>
+  </channel>
+  <channel id="AE">
+    <display-name>AE</display-name>
+  </channel>
+  <channel id="ID">
+    <display-name>ID</display-name>
+  </channel>
+  <channel id="Syfy">
+    <display-name>Syfy</display-name>
+  </channel>
+  <channel id="Lifetime">
+    <display-name>Lifetime</display-name>
+  </channel>
+  <channel id="Cinecanal">
+    <display-name>Cinecanal</display-name>
+  </channel>
+  <channel id="AMC">
+    <display-name>AMC</display-name>
+  </channel>
+  <channel id="FilmArts">
+    <display-name>FilmArts</display-name>
+  </channel>
+  <channel id="Canal Brasil">
+    <display-name>Canal Brasil</display-name>
+  </channel>
+  <channel id="TNT">
+    <display-name>TNT</display-name>
+  </channel>
+  <channel id="Megapix">
+    <display-name>Megapix</display-name>
+  </channel>
+  <channel id="Space">
+    <display-name>Space</display-name>
+  </channel>
+  <channel id="Cinemax">
+    <display-name>Cinemax</display-name>
+  </channel>
+  <channel id="Prime Box Brazil">
+    <display-name>Prime Box Brazil</display-name>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name>Studio Universal</display-name>
+  </channel>
+  <channel id="Paramount Network">
+    <display-name>Paramount Network</display-name>
+  </channel>
+  <channel id="TCM">
+    <display-name>TCM</display-name>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name>Telecine Premium</display-name>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name>Telecine Action</display-name>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name>Telecine Touch</display-name>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name>Telecine Fun</display-name>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name>Telecine Pipoca</display-name>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name>Telecine Cult</display-name>
+  </channel>
+  <channel id="HBO">
+    <display-name>HBO</display-name>
+  </channel>
+  <channel id="HBO 2">
+    <display-name>HBO 2</display-name>
+  </channel>
+  <channel id="HBO +">
+    <display-name>HBO +</display-name>
+  </channel>
+  <channel id="HBO Family">
+    <display-name>HBO Family</display-name>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name>HBO Signature</display-name>
+  </channel>
+  <channel id="Hbo Pop">
+    <display-name>Hbo Pop</display-name>
+  </channel>
+  <channel id="Hbo Mundi">
+    <display-name>Hbo Mundi</display-name>
+  </channel>
+  <channel id="HBO Xtreme">
+    <display-name>HBO Xtreme</display-name>
+  </channel>
+  <channel id="Terra Viva">
+    <display-name>Terra Viva</display-name>
+  </channel>
+  <channel id="Canal Rural">
+    <display-name>Canal Rural</display-name>
+  </channel>
+  <channel id="Agro Mais">
+    <display-name>Agro Mais</display-name>
+  </channel>
+  <channel id="Canal do Boi">
+    <display-name>Canal do Boi</display-name>
+  </channel>
+  <channel id="Rede Vida">
+    <display-name>Rede Vida</display-name>
+  </channel>
+  <channel id="Tv Aparecida">
+    <display-name>Tv Aparecida</display-name>
+  </channel>
+  <channel id="Boa Vontade TV">
+    <display-name>Boa Vontade TV</display-name>
+  </channel>
+  <channel id="CGTN">
+    <display-name>CGTN</display-name>
+  </channel>
+  <channel id="CNN International">
+    <display-name>CNN International</display-name>
+  </channel>
+  <channel id="Bloomberg TV">
+    <display-name>Bloomberg TV</display-name>
+  </channel>
+  <channel id="BBC World News">
+    <display-name>BBC World News</display-name>
+  </channel>
+  <channel id="RAI International">
+    <display-name>RAI International</display-name>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name>TV5 Monde</display-name>
+  </channel>
+  <channel id="TVE International">
+    <display-name>TVE International</display-name>
+  </channel>
+  <channel id="DW-TV">
+    <display-name>DW-TV</display-name>
+  </channel>
+  <channel id="NHK World Premium">
+    <display-name>NHK World Premium</display-name>
+  </channel>
+  <channel id="SIC International">
+    <display-name>SIC International</display-name>
+  </channel>
+  <channel id="TV Korea">
+    <display-name>TV Korea</display-name>
+  </channel>
+  <channel id="France 24">
+    <display-name>France 24</display-name>
+  </channel>
+  <channel id="Portal do Futebol">
+    <display-name>Portal do Futebol</display-name>
+  </channel>
+  <channel id="Premiere Clubes">
+    <display-name>Premiere Clubes</display-name>
+  </channel>
+  <channel id="Premiere 2">
+    <display-name>Premiere 2</display-name>
+  </channel>
+  <channel id="Premiere 3">
+    <display-name>Premiere 3</display-name>
+  </channel>
+  <channel id="Premiere 4">
+    <display-name>Premiere 4</display-name>
+  </channel>
+  <channel id="Premiere 5">
+    <display-name>Premiere 5</display-name>
+  </channel>
+  <channel id="Premiere 6">
+    <display-name>Premiere 6</display-name>
+  </channel>
+  <channel id="Premiere 7">
+    <display-name>Premiere 7</display-name>
+  </channel>
+  <channel id="Mosaico Multijogos">
+    <display-name>Mosaico Multijogos</display-name>
+  </channel>
+  <channel id="Combate">
+    <display-name>Combate</display-name>
+  </channel>
+  <channel id="Canal de Vendas NET">
+    <display-name>Canal de Vendas NET</display-name>
+  </channel>
+  <channel id="TV Climatempo">
+    <display-name>TV Climatempo</display-name>
+  </channel>
+  <channel id="Jogos Interativos Cartoon">
+    <display-name>Jogos Interativos Cartoon</display-name>
+  </channel>
+  <channel id="Playboy TV">
+    <display-name>Playboy TV</display-name>
+  </channel>
+  <channel id="Sextreme">
+    <display-name>Sextreme</display-name>
+  </channel>
+  <channel id="Venus">
+    <display-name>Venus</display-name>
+  </channel>
+  <channel id="Sexy Hot">
+    <display-name>Sexy Hot</display-name>
+  </channel>
+  <channel id="Música">
+    <display-name>Música</display-name>
+  </channel>
+  <channel id="CANAL DO CLIENTE HD">
+    <display-name>CANAL DO CLIENTE HD</display-name>
+  </channel>
+  <channel id="Globo HD">
+    <display-name>Globo HD</display-name>
+  </channel>
+  <channel id="Band HD">
+    <display-name>Band HD</display-name>
+  </channel>
+  <channel id="Rede TV HD">
+    <display-name>Rede TV HD</display-name>
+  </channel>
+  <channel id="SBT HD">
+    <display-name>SBT HD</display-name>
+  </channel>
+  <channel id="Cultura HD">
+    <display-name>Cultura HD</display-name>
+  </channel>
+  <channel id="Record HD">
+    <display-name>Record HD</display-name>
+  </channel>
+  <channel id="Gazeta HD">
+    <display-name>Gazeta HD</display-name>
+  </channel>
+  <channel id="Mega TV HD">
+    <display-name>Mega TV HD</display-name>
+  </channel>
+  <channel id="Rede Gospel HD">
+    <display-name>Rede Gospel HD</display-name>
+  </channel>
+  <channel id="Polishop TV">
+    <display-name>Polishop TV</display-name>
+  </channel>
+  <channel id="Shoptime TV">
+    <display-name>Shoptime TV</display-name>
+  </channel>
+  <channel id="LIKE HD">
+    <display-name>LIKE HD</display-name>
+  </channel>
+  <channel id="TV Brasil HD">
+    <display-name>TV Brasil HD</display-name>
+  </channel>
+  <channel id="Futura HD">
+    <display-name>Futura HD</display-name>
+  </channel>
+  <channel id="Off HD ³">
+    <display-name>Off HD ³</display-name>
+  </channel>
+  <channel id="SporTV 3 HD ³">
+    <display-name>SporTV 3 HD ³</display-name>
+  </channel>
+  <channel id="SporTV 2 HD ³">
+    <display-name>SporTV 2 HD ³</display-name>
+  </channel>
+  <channel id="SporTV HD ³">
+    <display-name>SporTV HD ³</display-name>
+  </channel>
+  <channel id="GloboNews HD ³">
+    <display-name>GloboNews HD ³</display-name>
+  </channel>
+  <channel id="GNT HD ³">
+    <display-name>GNT HD ³</display-name>
+  </channel>
+  <channel id="Multishow HD ³">
+    <display-name>Multishow HD ³</display-name>
+  </channel>
+  <channel id="Viva HD">
+    <display-name>Viva HD</display-name>
+  </channel>
+  <channel id="Modo viagem HD">
+    <display-name>Modo viagem HD</display-name>
+  </channel>
+  <channel id="E HD">
+    <display-name>E HD</display-name>
+  </channel>
+  <channel id="Fashion TV HD">
+    <display-name>Fashion TV HD</display-name>
+  </channel>
+  <channel id="TLC HD ³">
+    <display-name>TLC HD ³</display-name>
+  </channel>
+  <channel id="Arte 1 HD">
+    <display-name>Arte 1 HD</display-name>
+  </channel>
+  <channel id="FOOD NETWORK HD">
+    <display-name>FOOD NETWORK HD</display-name>
+  </channel>
+  <channel id="Discovery Home  Health HD ³">
+    <display-name>Discovery Home  Health HD ³</display-name>
+  </channel>
+  <channel id="Curta HD">
+    <display-name>Curta HD</display-name>
+  </channel>
+  <channel id="Travel Box Brasil HD">
+    <display-name>Travel Box Brasil HD</display-name>
+  </channel>
+  <channel id="FISH TV HD">
+    <display-name>FISH TV HD</display-name>
+  </channel>
+  <channel id="DogTV HD">
+    <display-name>DogTV HD</display-name>
+  </channel>
+  <channel id="HGTV HD">
+    <display-name>HGTV HD</display-name>
+  </channel>
+  <channel id="Sabor  Arte HD">
+    <display-name>Sabor  Arte HD</display-name>
+  </channel>
+  <channel id="Woohoo HD">
+    <display-name>Woohoo HD</display-name>
+  </channel>
+  <channel id="ESPN 5 HD">
+    <display-name>ESPN 5 HD</display-name>
+  </channel>
+  <channel id="ESPN HD ³">
+    <display-name>ESPN HD ³</display-name>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name>ESPN 2 HD</display-name>
+  </channel>
+  <channel id="ESPN 3 HD">
+    <display-name>ESPN 3 HD</display-name>
+  </channel>
+  <channel id="ESPN 4 HD">
+    <display-name>ESPN 4 HD</display-name>
+  </channel>
+  <channel id="ESPN 6 HD">
+    <display-name>ESPN 6 HD</display-name>
+  </channel>
+  <channel id="Band Sports HD ³">
+    <display-name>Band Sports HD ³</display-name>
+  </channel>
+  <channel id="JP News HD">
+    <display-name>JP News HD</display-name>
+  </channel>
+  <channel id="CNN Brasil HD">
+    <display-name>CNN Brasil HD</display-name>
+  </channel>
+  <channel id="Band News HD">
+    <display-name>Band News HD</display-name>
+  </channel>
+  <channel id="National Geographic HD ³">
+    <display-name>National Geographic HD ³</display-name>
+  </channel>
+  <channel id="Discovery HD ³">
+    <display-name>Discovery HD ³</display-name>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name>Animal Planet HD</display-name>
+  </channel>
+  <channel id="History Hd">
+    <display-name>History Hd</display-name>
+  </channel>
+  <channel id="Discovery Turbo HD ³">
+    <display-name>Discovery Turbo HD ³</display-name>
+  </channel>
+  <channel id="Discovery Science HD ³">
+    <display-name>Discovery Science HD ³</display-name>
+  </channel>
+  <channel id="Discovery Theater HD ³">
+    <display-name>Discovery Theater HD ³</display-name>
+  </channel>
+  <channel id="Discovery world HD ³">
+    <display-name>Discovery world HD ³</display-name>
+  </channel>
+  <channel id="History 2 HD">
+    <display-name>History 2 HD</display-name>
+  </channel>
+  <channel id="Gloobinho HD">
+    <display-name>Gloobinho HD</display-name>
+  </channel>
+  <channel id="Discovery Kids HD ³">
+    <display-name>Discovery Kids HD ³</display-name>
+  </channel>
+  <channel id="Gloob HD ³">
+    <display-name>Gloob HD ³</display-name>
+  </channel>
+  <channel id="Disney Channel HD ³">
+    <display-name>Disney Channel HD ³</display-name>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name>Nickelodeon HD</display-name>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name>Cartoon Network HD</display-name>
+  </channel>
+  <channel id="Nick Jr HD ³">
+    <display-name>Nick Jr HD ³</display-name>
+  </channel>
+  <channel id="Cartoonito HD">
+    <display-name>Cartoonito HD</display-name>
+  </channel>
+  <channel id="TV Rá Tim Bum HD ³">
+    <display-name>TV Rá Tim Bum HD ³</display-name>
+  </channel>
+  <channel id="ZooMoo HD">
+    <display-name>ZooMoo HD</display-name>
+  </channel>
+  <channel id="BIS HD ³">
+    <display-name>BIS HD ³</display-name>
+  </channel>
+  <channel id="MTV HD ³">
+    <display-name>MTV HD ³</display-name>
+  </channel>
+  <channel id="Music Box Brazil HD ³">
+    <display-name>Music Box Brazil HD ³</display-name>
+  </channel>
+  <channel id="Trace Brazuca HD">
+    <display-name>Trace Brazuca HD</display-name>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name>MTV Live HD</display-name>
+  </channel>
+  <channel id="Universal TV HD">
+    <display-name>Universal TV HD</display-name>
+  </channel>
+  <channel id="STAR CHANNEL HD">
+    <display-name>STAR CHANNEL HD</display-name>
+  </channel>
+  <channel id="Warner Channel HD">
+    <display-name>Warner Channel HD</display-name>
+  </channel>
+  <channel id="Sony HD ³">
+    <display-name>Sony HD ³</display-name>
+  </channel>
+  <channel id="FX HD ³">
+    <display-name>FX HD ³</display-name>
+  </channel>
+  <channel id="AXN HD ³">
+    <display-name>AXN HD ³</display-name>
+  </channel>
+  <channel id="Tnt novelas HD">
+    <display-name>Tnt novelas HD</display-name>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name>Comedy Central HD</display-name>
+  </channel>
+  <channel id="AE HD">
+    <display-name>AE HD</display-name>
+  </channel>
+  <channel id="ID HD ³">
+    <display-name>ID HD ³</display-name>
+  </channel>
+  <channel id="Syfy HD">
+    <display-name>Syfy HD</display-name>
+  </channel>
+  <channel id="Lifetime HD">
+    <display-name>Lifetime HD</display-name>
+  </channel>
+  <channel id="TNT SÉRIES HD">
+    <display-name>TNT SÉRIES HD</display-name>
+  </channel>
+  <channel id="Cinecanal HD">
+    <display-name>Cinecanal HD</display-name>
+  </channel>
+  <channel id="AMC HD">
+    <display-name>AMC HD</display-name>
+  </channel>
+  <channel id="Eurochannel HD">
+    <display-name>Eurochannel HD</display-name>
+  </channel>
+  <channel id="FilmArts HD">
+    <display-name>FilmArts HD</display-name>
+  </channel>
+  <channel id="Canal Brasil HD ³">
+    <display-name>Canal Brasil HD ³</display-name>
+  </channel>
+  <channel id="TNT HD ³">
+    <display-name>TNT HD ³</display-name>
+  </channel>
+  <channel id="Megapix HD ³">
+    <display-name>Megapix HD ³</display-name>
+  </channel>
+  <channel id="Space HD ³">
+    <display-name>Space HD ³</display-name>
+  </channel>
+  <channel id="Cinemax HD ³">
+    <display-name>Cinemax HD ³</display-name>
+  </channel>
+  <channel id="Prime Box Brazil HD ³">
+    <display-name>Prime Box Brazil HD ³</display-name>
+  </channel>
+  <channel id="Studio Universal HD">
+    <display-name>Studio Universal HD</display-name>
+  </channel>
+  <channel id="Paramount Network HD">
+    <display-name>Paramount Network HD</display-name>
+  </channel>
+  <channel id="Telecine Premium HD ³">
+    <display-name>Telecine Premium HD ³</display-name>
+  </channel>
+  <channel id="Telecine Action HD ³">
+    <display-name>Telecine Action HD ³</display-name>
+  </channel>
+  <channel id="Telecine Touch HD ³">
+    <display-name>Telecine Touch HD ³</display-name>
+  </channel>
+  <channel id="Telecine Fun HD ³">
+    <display-name>Telecine Fun HD ³</display-name>
+  </channel>
+  <channel id="Telecine Pipoca HD ³">
+    <display-name>Telecine Pipoca HD ³</display-name>
+  </channel>
+  <channel id="Telecine Cult HD ³">
+    <display-name>Telecine Cult HD ³</display-name>
+  </channel>
+  <channel id="HBO HD ³">
+    <display-name>HBO HD ³</display-name>
+  </channel>
+  <channel id="HBO HD 2 ³">
+    <display-name>HBO HD 2 ³</display-name>
+  </channel>
+  <channel id="HBO + HD">
+    <display-name>HBO + HD</display-name>
+  </channel>
+  <channel id="HBO Family HD ³">
+    <display-name>HBO Family HD ³</display-name>
+  </channel>
+  <channel id="HBO Signature HD ³">
+    <display-name>HBO Signature HD ³</display-name>
+  </channel>
+  <channel id="HBO POP HD">
+    <display-name>HBO POP HD</display-name>
+  </channel>
+  <channel id="HBO MUNDI HD">
+    <display-name>HBO MUNDI HD</display-name>
+  </channel>
+  <channel id="HBO Xtreme HD">
+    <display-name>HBO Xtreme HD</display-name>
+  </channel>
+  <channel id="Agro Mais HD">
+    <display-name>Agro Mais HD</display-name>
+  </channel>
+  <channel id="TV Pai Eterno HD">
+    <display-name>TV Pai Eterno HD</display-name>
+  </channel>
+  <channel id="Rede Vida HD">
+    <display-name>Rede Vida HD</display-name>
+  </channel>
+  <channel id="TV Aparecida (espelho)">
+    <display-name>TV Aparecida (espelho)</display-name>
+  </channel>
+  <channel id="Canal do Boi HD">
+    <display-name>Canal do Boi HD</display-name>
+  </channel>
+  <channel id="France 24 HD">
+    <display-name>France 24 HD</display-name>
+  </channel>
+  <channel id="CONMEBOL TV 4 HD">
+    <display-name>CONMEBOL TV 4 HD</display-name>
+  </channel>
+  <channel id="Premiere Clubes HD">
+    <display-name>Premiere Clubes HD</display-name>
+  </channel>
+  <channel id="Premiere HD 2">
+    <display-name>Premiere HD 2</display-name>
+  </channel>
+  <channel id="PREMIERE HD 3 ³">
+    <display-name>PREMIERE HD 3 ³</display-name>
+  </channel>
+  <channel id="PREMIERE HD 4 ³">
+    <display-name>PREMIERE HD 4 ³</display-name>
+  </channel>
+  <channel id="PREMIERE HD 5 ³">
+    <display-name>PREMIERE HD 5 ³</display-name>
+  </channel>
+  <channel id="Premiere HD 6">
+    <display-name>Premiere HD 6</display-name>
+  </channel>
+  <channel id="Premiere HD 7">
+    <display-name>Premiere HD 7</display-name>
+  </channel>
+  <channel id="Combate HD">
+    <display-name>Combate HD</display-name>
+  </channel>
+  <channel id="Playboy HD">
+    <display-name>Playboy HD</display-name>
+  </channel>
+  <programme start="20251114004500 -0300" stop="20251114014500 -0300" channel="SBT">
+    <title>The Noite com Danilo Gentili</title>
+  </programme>
+  <programme start="20251114014500 -0300" stop="20251114021500 -0300" channel="SBT">
+    <title>Operação Mesquita</title>
+  </programme>
+  <programme start="20251114021500 -0300" stop="20251114030000 -0300" channel="SBT">
+    <title>SBT Podnight - Seja Luz</title>
+  </programme>
+  <programme start="20251114030000 -0300" stop="20251114044500 -0300" channel="SBT">
+    <title>SBT Notícias</title>
+  </programme>
+  <programme start="20251114044500 -0300" stop="20251114073000 -0300" channel="SBT">
+    <title>SBT Manhã</title>
+  </programme>
+  <programme start="20251114073000 -0300" stop="20251114083000 -0300" channel="SBT">
+    <title>SBT Manhã</title>
+  </programme>
+  <programme start="20251114083000 -0300" stop="20251114093000 -0300" channel="SBT">
+    <title>Bom Dia  Cia Com Patati Patatá</title>
+  </programme>
+  <programme start="20251114093000 -0300" stop="20251114110000 -0300" channel="SBT">
+    <title>Primeiro Impacto</title>
+  </programme>
+  <programme start="20251114110000 -0300" stop="20251114140000 -0300" channel="SBT">
+    <title>Alô Você</title>
+  </programme>
+  <programme start="20251114140000 -0300" stop="20251114143000 -0300" channel="SBT">
+    <title>Esmeralda</title>
+  </programme>
+  <programme start="20251114143000 -0300" stop="20251114150000 -0300" channel="SBT">
+    <title>Maria do Bairro</title>
+  </programme>
+  <programme start="20251114150000 -0300" stop="20251114153000 -0300" channel="SBT">
+    <title>Rubi</title>
+  </programme>
+  <programme start="20251114153000 -0300" stop="20251114170000 -0300" channel="SBT">
+    <title>Fofocalizando</title>
+  </programme>
+  <programme start="20251114170000 -0300" stop="20251114180000 -0300" channel="SBT">
+    <title>Casos de Família</title>
+  </programme>
+  <programme start="20251114180000 -0300" stop="20251114183000 -0300" channel="SBT">
+    <title>Aqui Agora</title>
+  </programme>
+  <programme start="20251114183000 -0300" stop="20251114194500 -0300" channel="SBT">
+    <title>Chapolin</title>
+  </programme>
+  <programme start="20251114194500 -0300" stop="20251114210000 -0300" channel="SBT">
+    <title>SBT Brasil</title>
+  </programme>
+  <programme start="20251114210000 -0300" stop="20251114221500 -0300" channel="SBT">
+    <title>A.Mar</title>
+  </programme>
+  <programme start="20251114221500 -0300" stop="20251114231500 -0300" channel="SBT">
+    <title>Programa do Ratinho</title>
+  </programme>
+  <programme start="20251114231500 -0300" stop="20251115010000 -0300" channel="SBT">
+    <title>Viva a Noite</title>
+  </programme>
+  <programme start="20251114000000 -0300" stop="20251114001000 -0300" channel="RIT TV">
+    <title>Jornal Toda Hora</title>
+  </programme>
+  <programme start="20251114001000 -0300" stop="20251114013500 -0300" channel="RIT TV">
+    <title>Igreja da Graça no seu Lar</title>
+  </programme>
+  <programme start="20251114013500 -0300" stop="20251114014500 -0300" channel="RIT TV">
+    <title>Jornal Toda Hora</title>
+  </programme>
+  <programme start="20251114014500 -0300" stop="20251114025000 -0300" channel="RIT TV">
+    <title>Sem Desvio</title>
+  </programme>
+  <programme start="20251114025000 -0300" stop="20251114030000 -0300" channel="RIT TV">
+    <title>Jornal Toda Hora</title>
+  </programme>
+  <programme start="20251114030000 -0300" stop="20251114043000 -0300" channel="RIT TV">
+    <title>Show da Fé</title>
+  </programme>
+  <programme start="20251114043000 -0300" stop="20251114062500 -0300" channel="RIT TV">
+    <title>S.O.S da Fé</title>
+  </programme>
+  <programme start="20251114062500 -0300" stop="20251114063000 -0300" channel="RIT TV">
+    <title>Semeando a Fé</title>
+  </programme>
+  <programme start="20251114063000 -0300" stop="20251114070000 -0300" channel="RIT TV">
+    <title>Especial: Missões</title>
+  </programme>
+  <programme start="20251114070000 -0300" stop="20251114082000 -0300" channel="RIT TV">
+    <title>Igreja da Graça no seu Lar</title>
+  </programme>
+  <programme start="20251114082000 -0300" stop="20251114083100 -0300" channel="RIT TV">
+    <title>Agenda dos Pastores</title>
+  </programme>
+  <programme start="20251114083100 -0300" stop="20251114084500 -0300" channel="RIT TV">
+    <title>Comportamento  Fé</title>
+  </programme>
+  <programme start="20251114084500 -0300" stop="20251114085000 -0300" channel="RIT TV">
+    <title>Semeando a Fé</title>
+  </programme>
+  <programme start="20251114085000 -0300" stop="20251114090000 -0300" channel="RIT TV">
+    <title>No Espelho da Fé</title>
+  </programme>
+  <programme start="20251114090000 -0300" stop="20251114091000 -0300" channel="RIT TV">
+    <title>Jornal Toda Hora</title>
+  </programme>
+  <programme start="20251114091000 -0300" stop="20251114094500 -0300" channel="RIT TV">
+    <title>Hummm Saboroso</title>
+  </programme>
+  <programme start="20251114094500 -0300" stop="20251114100000 -0300" channel="RIT TV">
+    <title>Zig Zag Show</title>
+  </programme>
+  <programme start="20251114100000 -0300" stop="20251114101000 -0300" channel="RIT TV">
+    <title>Jornal Toda Hora</title>
+  </programme>
+  <programme start="20251114101000 -0300" stop="20251114105000 -0300" channel="RIT TV">
+    <title>Crianças que Vencem</title>
+  </programme>
+  <programme start="20251114105000 -0300" stop="20251114110000 -0300" channel="RIT TV">
+    <title>Clip RIT</title>
+  </programme>
+  <programme start="20251114110000 -0300" stop="20251114111000 -0300" channel="RIT TV">
+    <title>Jornal Toda Hora</title>
+  </programme>
+  <programme start="20251114111000 -0300" stop="20251114113000 -0300" channel="RIT TV">
+    <title>Clip RIT</title>
+  </programme>
+  <programme start="20251114113000 -0300" stop="20251114120000 -0300" channel="RIT TV">
+    <title>Redação RIT</title>
+  </programme>
+  <programme start="20251114120000 -0300" stop="20251114130000 -0300" channel="RIT TV">
+    <title>Fala, Amigo</title>
+  </programme>
+  <programme start="20251114130000 -0300" stop="20251114131000 -0300" channel="RIT TV">
+    <title>Jornal Toda Hora</title>
+  </programme>
+  <programme start="20251114131000 -0300" stop="20251114134000 -0300" channel="RIT TV">
+    <title>Live Das Nações</title>
+  </programme>
+  <programme start="20251114134000 -0300" stop="20251114140000 -0300" channel="RIT TV">
+    <title>Curso Fé</title>
+  </programme>
+  <programme start="20251114140000 -0300" stop="20251114141000 -0300" channel="RIT TV">
+    <title>Jornal Toda Hora</title>
+  </programme>
+  <programme start="20251114141000 -0300" stop="20251114150000 -0300" channel="RIT TV">
+    <title>Nosso Programa</title>
+  </programme>
+  <programme start="20251114150000 -0300" stop="20251114151000 -0300" channel="RIT TV">
+    <title>Jornal Toda Hora</title>
+  </programme>
+  <programme start="20251114151000 -0300" stop="20251114153000 -0300" channel="RIT TV">
+    <title>Nosso Programa</title>
+  </programme>
+  <programme start="20251114153000 -0300" stop="20251114160000 -0300" channel="RIT TV">
+    <title>Redação RIT</title>
+  </programme>
+  <programme start="20251114160000 -0300" stop="20251114170000 -0300" channel="RIT TV">
+    <title>Consulta ao Doutor</title>
+  </programme>
+  <programme start="20251114170000 -0300" stop="20251114170600 -0300" channel="RIT TV">
+    <title>Jornal Toda Hora</title>
+  </programme>
+  <programme start="20251114170600 -0300" stop="20251114180000 -0300" channel="RIT TV">
+    <title>Show da Fé</title>
+  </programme>
+  <programme start="20251114180000 -0300" stop="20251114180500 -0300" channel="RIT TV">
+    <title>Jornal Toda Hora</title>
+  </programme>
+  <programme start="20251114180500 -0300" stop="20251114183500 -0300" channel="RIT TV">
+    <title>No Cair Da Tarde</title>
+  </programme>
+  <programme start="20251114183500 -0300" stop="20251114190000 -0300" channel="RIT TV">
+    <title>Jornal das 18h30</title>
+  </programme>
+  <programme start="20251114190000 -0300" stop="20251114200000 -0300" channel="RIT TV">
+    <title>S.O.S da Fé</title>
+  </programme>
+  <programme start="20251114200000 -0300" stop="20251114201000 -0300" channel="RIT TV">
+    <title>Jornal Toda Hora</title>
+  </programme>
+  <programme start="20251114201000 -0300" stop="20251114210000 -0300" channel="RIT TV">
+    <title>S.O.S da Fé</title>
+  </programme>
+  <programme start="20251114210000 -0300" stop="20251114210600 -0300" channel="RIT TV">
+    <title>Jornal Toda Hora</title>
+  </programme>
+  <programme start="20251114210600 -0300" stop="20251114220000 -0300" channel="RIT TV">
+    <title>Show da Fé</title>
+  </programme>
+  <programme start="20251114220000 -0300" stop="20251114230000 -0300" channel="RIT TV">
+    <title>Jornal das 22h00</title>
+  </programme>
+  <programme start="20251114230000 -0300" stop="20251115000000 -0300" channel="RIT TV">
+    <title>Vejam Só</title>
+  </programme>
+  <programme start="20251114003000 -0300" stop="20251114013000 -0300" channel="Cultura">
+    <title>Provoca</title>
+  </programme>
+  <programme start="20251114013000 -0300" stop="20251114023000 -0300" channel="Cultura">
+    <title>Mosaicos Musicais</title>
+  </programme>
+  <programme start="20251114023000 -0300" stop="20251114033000 -0300" channel="Cultura">
+    <title>Jornal da Cultura</title>
+  </programme>
+  <programme start="20251114033000 -0300" stop="20251114040000 -0300" channel="Cultura">
+    <title>Saúde Brasil</title>
+  </programme>
+  <programme start="20251114040000 -0300" stop="20251114050000 -0300" channel="Cultura">
+    <title>Cultura Memória</title>
+  </programme>
+  <programme start="20251114050000 -0300" stop="20251114060000 -0300" channel="Cultura">
+    <title>Inglês com Música</title>
+  </programme>
+  <programme start="20251114060000 -0300" stop="20251114063000 -0300" channel="Cultura">
+    <title>Ensaio</title>
+  </programme>
+  <programme start="20251114063000 -0300" stop="20251114070000 -0300" channel="Cultura">
+    <title>Opinião</title>
+  </programme>
+  <programme start="20251114070000 -0300" stop="20251114071500 -0300" channel="Cultura">
+    <title>Cocoricó</title>
+  </programme>
+  <programme start="20251114071500 -0300" stop="20251114073000 -0300" channel="Cultura">
+    <title>Peppa Pig</title>
+  </programme>
+  <programme start="20251114073000 -0300" stop="20251114073500 -0300" channel="Cultura">
+    <title>Léo, O Caminhão</title>
+  </programme>
+  <programme start="20251114073500 -0300" stop="20251114074500 -0300" channel="Cultura">
+    <title>Planeta Palavra</title>
+  </programme>
+  <programme start="20251114074500 -0300" stop="20251114075500 -0300" channel="Cultura">
+    <title>Oi, Duggee</title>
+  </programme>
+  <programme start="20251114075500 -0300" stop="20251114080000 -0300" channel="Cultura">
+    <title>Parquinho Jurássico</title>
+  </programme>
+  <programme start="20251114080000 -0300" stop="20251114081500 -0300" channel="Cultura">
+    <title>Palaloos</title>
+  </programme>
+  <programme start="20251114081500 -0300" stop="20251114083000 -0300" channel="Cultura">
+    <title>Meu Amigãozão</title>
+  </programme>
+  <programme start="20251114083000 -0300" stop="20251114084000 -0300" channel="Cultura">
+    <title>Mundo Bita</title>
+  </programme>
+  <programme start="20251114084000 -0300" stop="20251114084500 -0300" channel="Cultura">
+    <title>Paramigos Imparáveis</title>
+  </programme>
+  <programme start="20251114084500 -0300" stop="20251114090000 -0300" channel="Cultura">
+    <title>Bing</title>
+  </programme>
+  <programme start="20251114090000 -0300" stop="20251114091000 -0300" channel="Cultura">
+    <title>Milo</title>
+  </programme>
+  <programme start="20251114091000 -0300" stop="20251114092500 -0300" channel="Cultura">
+    <title>PJ Masks - Heróis de Pijama</title>
+  </programme>
+  <programme start="20251114092500 -0300" stop="20251114094000 -0300" channel="Cultura">
+    <title>Bluey</title>
+  </programme>
+  <programme start="20251114094000 -0300" stop="20251114095500 -0300" channel="Cultura">
+    <title>Gildo</title>
+  </programme>
+  <programme start="20251114095500 -0300" stop="20251114100500 -0300" channel="Cultura">
+    <title>Aninha. A Infância de Cora Coralina</title>
+  </programme>
+  <programme start="20251114100500 -0300" stop="20251114101500 -0300" channel="Cultura">
+    <title>Missão 347</title>
+  </programme>
+  <programme start="20251114101500 -0300" stop="20251114103000 -0300" channel="Cultura">
+    <title>O Show da Luna</title>
+  </programme>
+  <programme start="20251114103000 -0300" stop="20251114104000 -0300" channel="Cultura">
+    <title>Turbossauros</title>
+  </programme>
+  <programme start="20251114104000 -0300" stop="20251114104500 -0300" channel="Cultura">
+    <title>Godofredo</title>
+  </programme>
+  <programme start="20251114104500 -0300" stop="20251114110000 -0300" channel="Cultura">
+    <title>Minha Casa, Nosso Mundo</title>
+  </programme>
+  <programme start="20251114110000 -0300" stop="20251114111000 -0300" channel="Cultura">
+    <title>Mistérios Animais</title>
+  </programme>
+  <programme start="20251114111000 -0300" stop="20251114111500 -0300" channel="Cultura">
+    <title>Morgana  Celeste</title>
+  </programme>
+  <programme start="20251114111500 -0300" stop="20251114113500 -0300" channel="Cultura">
+    <title>Bipo</title>
+  </programme>
+  <programme start="20251114113500 -0300" stop="20251114114500 -0300" channel="Cultura">
+    <title>Turma da Mônica</title>
+  </programme>
+  <programme start="20251114114500 -0300" stop="20251114120000 -0300" channel="Cultura">
+    <title>Quintal – Missão do Dia</title>
+  </programme>
+  <programme start="20251114120000 -0300" stop="20251114124500 -0300" channel="Cultura">
+    <title>Jornal da Tarde</title>
+  </programme>
+  <programme start="20251114124500 -0300" stop="20251114130000 -0300" channel="Cultura">
+    <title>Peppa Pig</title>
+  </programme>
+  <programme start="20251114130000 -0300" stop="20251114131000 -0300" channel="Cultura">
+    <title>Palaloos</title>
+  </programme>
+  <programme start="20251114131000 -0300" stop="20251114131500 -0300" channel="Cultura">
+    <title>Léo, O Caminhão</title>
+  </programme>
+  <programme start="20251114131500 -0300" stop="20251114132500 -0300" channel="Cultura">
+    <title>Planeta Palavra</title>
+  </programme>
+  <programme start="20251114132500 -0300" stop="20251114133000 -0300" channel="Cultura">
+    <title>Oi, Duggee</title>
+  </programme>
+  <programme start="20251114133000 -0300" stop="20251114134000 -0300" channel="Cultura">
+    <title>Simon, O Supercoelho</title>
+  </programme>
+  <programme start="20251114134000 -0300" stop="20251114135000 -0300" channel="Cultura">
+    <title>Bing</title>
+  </programme>
+  <programme start="20251114135000 -0300" stop="20251114140000 -0300" channel="Cultura">
+    <title>Milo</title>
+  </programme>
+  <programme start="20251114140000 -0300" stop="20251114141500 -0300" channel="Cultura">
+    <title>Meu Amigãozão</title>
+  </programme>
+  <programme start="20251114141500 -0300" stop="20251114142500 -0300" channel="Cultura">
+    <title>Masha e o Urso</title>
+  </programme>
+  <programme start="20251114142500 -0300" stop="20251114144000 -0300" channel="Cultura">
+    <title>Viola e Tambor</title>
+  </programme>
+  <programme start="20251114144000 -0300" stop="20251114145500 -0300" channel="Cultura">
+    <title>Gildo</title>
+  </programme>
+  <programme start="20251114145500 -0300" stop="20251114151000 -0300" channel="Cultura">
+    <title>Aninha. A Infância de Cora Coralina</title>
+  </programme>
+  <programme start="20251114151000 -0300" stop="20251114153000 -0300" channel="Cultura">
+    <title>Bluey</title>
+  </programme>
+  <programme start="20251114153000 -0300" stop="20251114154500 -0300" channel="Cultura">
+    <title>Pequenos Mestres</title>
+  </programme>
+  <programme start="20251114154500 -0300" stop="20251114160000 -0300" channel="Cultura">
+    <title>O Show da Luna</title>
+  </programme>
+  <programme start="20251114160000 -0300" stop="20251114161500 -0300" channel="Cultura">
+    <title>Bipo</title>
+  </programme>
+  <programme start="20251114161500 -0300" stop="20251114163000 -0300" channel="Cultura">
+    <title>Turma da Mônica</title>
+  </programme>
+  <programme start="20251114163000 -0300" stop="20251114164500 -0300" channel="Cultura">
+    <title>Quintal – Missão do Dia</title>
+  </programme>
+  <programme start="20251114164500 -0300" stop="20251114171500 -0300" channel="Cultura">
+    <title>O Mundo de Mia</title>
+  </programme>
+  <programme start="20251114171500 -0300" stop="20251114174500 -0300" channel="Cultura">
+    <title>As Aventuras de Tintim</title>
+  </programme>
+  <programme start="20251114174500 -0300" stop="20251114181500 -0300" channel="Cultura">
+    <title>O Mundo de Beakman</title>
+  </programme>
+  <programme start="20251114181500 -0300" stop="20251114183000 -0300" channel="Cultura">
+    <title>Irmão do Jorel</title>
+  </programme>
+  <programme start="20251114183000 -0300" stop="20251114191500 -0300" channel="Cultura">
+    <title>Antimatéria</title>
+  </programme>
+  <programme start="20251114191500 -0300" stop="20251114200000 -0300" channel="Cultura">
+    <title>Shaun, o Carneiro</title>
+  </programme>
+  <programme start="20251114200000 -0300" stop="20251114203000 -0300" channel="Cultura">
+    <title>Entrelinhas</title>
+  </programme>
+  <programme start="20251114203000 -0300" stop="20251114210000 -0300" channel="Cultura">
+    <title>Opinião</title>
+  </programme>
+  <programme start="20251114210000 -0300" stop="20251114220000 -0300" channel="Cultura">
+    <title>Jornal da Cultura</title>
+  </programme>
+  <programme start="20251114220000 -0300" stop="20251114230000 -0300" channel="Cultura">
+    <title>Persona em Foco</title>
+  </programme>
+  <programme start="20251114230000 -0300" stop="20251114233000 -0300" channel="Cultura">
+    <title>Metrópolis</title>
+  </programme>
+  <programme start="20251114233000 -0300" stop="20251115000000 -0300" channel="Cultura">
+    <title>Encuentros en Brasil</title>
+  </programme>
+  <programme start="20251114000000 -0300" stop="20251114060000 -0300" channel="Canal 2">
+    <title>Programação Canal 2</title>
+  </programme>
+  <programme start="20251114060000 -0300" stop="20251114120000 -0300" channel="Canal 2">
+    <title>Programação Canal 2</title>
+  </programme>
+  <programme start="20251114120000 -0300" stop="20251114180000 -0300" channel="Canal 2">
+    <title>Programação Canal 2</title>
+  </programme>
+  <programme start="20251114180000 -0300" stop="20251115000000 -0300" channel="Canal 2">
+    <title>Programação Canal 2</title>
+  </programme>
+  <programme start="20251114000000 -0300" stop="20251114020000 -0300" channel="Canal Universitário">
+    <title>Programação Canal Universitário</title>
+  </programme>
+  <programme start="20251114004500 -0300" stop="20251114014500 -0300" channel="Canal Universitário">
+    <title>A Escrava Isaura</title>
+  </programme>
+  <programme start="20251114014500 -0300" stop="20251114024500 -0300" channel="Canal Universitário">
+    <title>Os Imigrantes</title>
+  </programme>
+  <programme start="20251114020000 -0300" stop="20251114040000 -0300" channel="Canal Universitário">
+    <title>Programação Canal Universitário</title>
+  </programme>
+  <programme start="20251114024500 -0300" stop="20251114034500 -0300" channel="Canal Universitário">
+    <title>Cine Doc</title>
+  </programme>
+  <programme start="20251114034500 -0300" stop="20251114053000 -0300" channel="Canal Universitário">
+    <title>Cine Retrô</title>
+  </programme>
+  <programme start="20251114040000 -0300" stop="20251114060000 -0300" channel="Canal Universitário">
+    <title>Programação Canal Universitário</title>
+  </programme>
+  <programme start="20251114053000 -0300" stop="20251114060000 -0300" channel="Canal Universitário">
+    <title>Conhecendo Museus</title>
+  </programme>
+  <programme start="20251114060000 -0300" stop="20251114080000 -0300" channel="Canal Universitário">
+    <title>Programação Canal Universitário</title>
+  </programme>
+  <programme start="20251114060000 -0300" stop="20251114063000 -0300" channel="Canal Universitário">
+    <title>A Cor da Nossa Tela</title>
+  </programme>
+  <programme start="20251114063000 -0300" stop="20251114070000 -0300" channel="Canal Universitário">
+    <title>Univerciência</title>
+  </programme>
+  <programme start="20251114070000 -0300" stop="20251114073000 -0300" channel="Canal Universitário">
+    <title>Guia de Cursos</title>
+  </programme>
+  <programme start="20251114073000 -0300" stop="20251114080000 -0300" channel="Canal Universitário">
+    <title>Repórter Brasil</title>
+  </programme>
+  <programme start="20251114080000 -0300" stop="20251114100000 -0300" channel="Canal Universitário">
+    <title>Programação Canal Universitário</title>
+  </programme>
+  <programme start="20251114080000 -0300" stop="20251114081500 -0300" channel="Canal Universitário">
+    <title>Brasil em Dia</title>
+  </programme>
+  <programme start="20251114081500 -0300" stop="20251114083000 -0300" channel="Canal Universitário">
+    <title>Gente Que Faz Nossa História</title>
+  </programme>
+  <programme start="20251114083000 -0300" stop="20251114090000 -0300" channel="Canal Universitário">
+    <title>Universitela</title>
+  </programme>
+  <programme start="20251114090000 -0300" stop="20251114091500 -0300" channel="Canal Universitário">
+    <title>Guia de Cursos</title>
+  </programme>
+  <programme start="20251114091500 -0300" stop="20251114113000 -0300" channel="Canal Universitário">
+    <title>Sessão Animada</title>
+  </programme>
+  <programme start="20251114100000 -0300" stop="20251114120000 -0300" channel="Canal Universitário">
+    <title>Programação Canal Universitário</title>
+  </programme>
+  <programme start="20251114113000 -0300" stop="20251114114500 -0300" channel="Canal Universitário">
+    <title>UFSC Explica</title>
+  </programme>
+  <programme start="20251114114500 -0300" stop="20251114121500 -0300" channel="Canal Universitário">
+    <title>Filaboia</title>
+  </programme>
+  <programme start="20251114120000 -0300" stop="20251114140000 -0300" channel="Canal Universitário">
+    <title>Programação Canal Universitário</title>
+  </programme>
+  <programme start="20251114121500 -0300" stop="20251114130000 -0300" channel="Canal Universitário">
+    <title>Repórter Brasil</title>
+  </programme>
+  <programme start="20251114130000 -0300" stop="20251114140000 -0300" channel="Canal Universitário">
+    <title>Cinema Catarinense</title>
+  </programme>
+  <programme start="20251114140000 -0300" stop="20251114160000 -0300" channel="Canal Universitário">
+    <title>Programação Canal Universitário</title>
+  </programme>
+  <programme start="20251114140000 -0300" stop="20251114160000 -0300" channel="Canal Universitário">
+    <title>Sessão Família</title>
+  </programme>
+  <programme start="20251114160000 -0300" stop="20251114180000 -0300" channel="Canal Universitário">
+    <title>Programação Canal Universitário</title>
+  </programme>
+  <programme start="20251114160000 -0300" stop="20251114163000 -0300" channel="Canal Universitário">
+    <title>Brasil Visto de Cima</title>
+  </programme>
+  <programme start="20251114163000 -0300" stop="20251114170000 -0300" channel="Canal Universitário">
+    <title>Pet História</title>
+  </programme>
+  <programme start="20251114170000 -0300" stop="20251114173000 -0300" channel="Canal Universitário">
+    <title>A Cor da Nossa Tela</title>
+  </programme>
+  <programme start="20251114173000 -0300" stop="20251114174500 -0300" channel="Canal Universitário">
+    <title>UFSC Explica</title>
+  </programme>
+  <programme start="20251114174500 -0300" stop="20251114180000 -0300" channel="Canal Universitário">
+    <title>Consciência</title>
+  </programme>
+  <programme start="20251114180000 -0300" stop="20251114200000 -0300" channel="Canal Universitário">
+    <title>Programação Canal Universitário</title>
+  </programme>
+  <programme start="20251114180000 -0300" stop="20251114190000 -0300" channel="Canal Universitário">
+    <title>Os Imigrantes</title>
+  </programme>
+  <programme start="20251114190000 -0300" stop="20251114194000 -0300" channel="Canal Universitário">
+    <title>Repórter Brasil</title>
+  </programme>
+  <programme start="20251114194000 -0300" stop="20251114200000 -0300" channel="Canal Universitário">
+    <title>Stadium</title>
+  </programme>
+  <programme start="20251114200000 -0300" stop="20251114220000 -0300" channel="Canal Universitário">
+    <title>Programação Canal Universitário</title>
+  </programme>
+  <programme start="20251114200000 -0300" stop="20251114210000 -0300" channel="Canal Universitário">
+    <title>A Escrava Isaura</title>
+  </programme>
+  <programme start="20251114210000 -0300" stop="20251114214500 -0300" channel="Canal Universitário">
+    <title>Antropofonia</title>
+  </programme>
+  <programme start="20251114214500 -0300" stop="20251114223000 -0300" channel="Canal Universitário">
+    <title>Som de Fora</title>
+  </programme>
+  <programme start="20251114220000 -0300" stop="20251115000000 -0300" channel="Canal Universitário">
+    <title>Programação Canal Universitário</title>
+  </programme>
+  <programme start="20251114223000 -0300" stop="20251115001500 -0300" channel="Canal Universitário">
+    <title>Festival de Cinema</title>
+  </programme>
+  <programme start="20251114000000 -0300" stop="20251114060000 -0300" channel="TV Câmara">
+    <title>Reapresentação de Comissão</title>
+  </programme>
+  <programme start="20251114060000 -0300" stop="20251114063000 -0300" channel="TV Câmara">
+    <title>Câmara Debate</title>
+  </programme>
+  <programme start="20251114063000 -0300" stop="20251114070000 -0300" channel="TV Câmara">
+    <title>Palavra Aberta</title>
+  </programme>
+  <programme start="20251114070000 -0300" stop="20251114073000 -0300" channel="TV Câmara">
+    <title>Interesse Público</title>
+  </programme>
+  <programme start="20251114073000 -0300" stop="20251114080000 -0300" channel="TV Câmara">
+    <title>Palavra Aberta</title>
+  </programme>
+  <programme start="20251114080000 -0300" stop="20251114090000 -0300" channel="TV Câmara">
+    <title>Painel Eletrônico</title>
+  </programme>
+  <programme start="20251114090000 -0300" stop="20251114100000 -0300" channel="TV Câmara">
+    <title>Bora Entender?</title>
+  </programme>
+  <programme start="20251114100000 -0300" stop="20251114120000 -0300" channel="TV Câmara">
+    <title>Câmara Agora</title>
+  </programme>
+  <programme start="20251114120000 -0300" stop="20251114130000 -0300" channel="TV Câmara">
+    <title>Participação Popular</title>
+  </programme>
+  <programme start="20251114130000 -0300" stop="20251114133000 -0300" channel="TV Câmara">
+    <title>Câmara Debate</title>
+  </programme>
+  <programme start="20251114133000 -0300" stop="20251114140000 -0300" channel="TV Câmara">
+    <title>Direto da Câmara</title>
+  </programme>
+  <programme start="20251114140000 -0300" stop="20251114180000 -0300" channel="TV Câmara">
+    <title>Comissão</title>
+  </programme>
+  <programme start="20251114180000 -0300" stop="20251114190000 -0300" channel="TV Câmara">
+    <title>Participação Popular</title>
+  </programme>
+  <programme start="20251114190000 -0300" stop="20251114193000 -0300" channel="TV Câmara">
+    <title>Fatos e Opiniões</title>
+  </programme>
+  <programme start="20251114193000 -0300" stop="20251114200000 -0300" channel="TV Câmara">
+    <title>Câmara Debate</title>
+  </programme>
+  <programme start="20251114200000 -0300" stop="20251114203000 -0300" channel="TV Câmara">
+    <title>Ponto de Vista</title>
+  </programme>
+  <programme start="20251114203000 -0300" stop="20251114210000 -0300" channel="TV Câmara">
+    <title>Elas Pautam</title>
+  </programme>
+  <programme start="20251114210000 -0300" stop="20251114220000 -0300" channel="TV Câmara">
+    <title>Expressão Nacional</title>
+  </programme>
+  <programme start="20251114220000 -0300" stop="20251114230000 -0300" channel="TV Câmara">
+    <title>Documentário Edital</title>
+  </programme>
+  <programme start="20251114230000 -0300" stop="20251114233000 -0300" channel="TV Câmara">
+    <title>Câmara Debate</title>
+  </programme>
+  <programme start="20251114233000 -0300" stop="20251115000000 -0300" channel="TV Câmara">
+    <title>Palavra Aberta</title>
+  </programme>
+  <programme start="20251114013000 -0300" stop="20251114023000 -0300" channel="TV Brasil">
+    <title>Sangue Oculto</title>
+  </programme>
+  <programme start="20251114023000 -0300" stop="20251114030000 -0300" channel="TV Brasil">
+    <title>Game Dev Brasil</title>
+  </programme>
+  <programme start="20251114030000 -0300" stop="20251114050000 -0300" channel="TV Brasil">
+    <title>Sessão de Cinema: O Nome da Morte</title>
+  </programme>
+  <programme start="20251114050000 -0300" stop="20251114053000 -0300" channel="TV Brasil">
+    <title>Brasil Visto de Cima</title>
+  </programme>
+  <programme start="20251114053000 -0300" stop="20251114060000 -0300" channel="TV Brasil">
+    <title>Brasil Visto de Cima</title>
+  </programme>
+  <programme start="20251114060000 -0300" stop="20251114063000 -0300" channel="TV Brasil">
+    <title>Olhar Independente</title>
+  </programme>
+  <programme start="20251114063000 -0300" stop="20251114070000 -0300" channel="TV Brasil">
+    <title>Bem Viver</title>
+  </programme>
+  <programme start="20251114070000 -0300" stop="20251114070500 -0300" channel="TV Brasil">
+    <title>Mundo Bita</title>
+  </programme>
+  <programme start="20251114070500 -0300" stop="20251114071400 -0300" channel="TV Brasil">
+    <title>Palaloos</title>
+  </programme>
+  <programme start="20251114071400 -0300" stop="20251114071900 -0300" channel="TV Brasil">
+    <title>Mundo Bita</title>
+  </programme>
+  <programme start="20251114071900 -0300" stop="20251114072700 -0300" channel="TV Brasil">
+    <title>Tuiga</title>
+  </programme>
+  <programme start="20251114072700 -0300" stop="20251114073200 -0300" channel="TV Brasil">
+    <title>Mundo Bita</title>
+  </programme>
+  <programme start="20251114073200 -0300" stop="20251114074000 -0300" channel="TV Brasil">
+    <title>Zoopedia</title>
+  </programme>
+  <programme start="20251114074000 -0300" stop="20251114075200 -0300" channel="TV Brasil">
+    <title>Sol em Dó Ré Mi</title>
+  </programme>
+  <programme start="20251114075200 -0300" stop="20251114075700 -0300" channel="TV Brasil">
+    <title>Mundo Bita</title>
+  </programme>
+  <programme start="20251114075700 -0300" stop="20251114080700 -0300" channel="TV Brasil">
+    <title>Lupita no Planeta de Gente Grande</title>
+  </programme>
+  <programme start="20251114080700 -0300" stop="20251114082000 -0300" channel="TV Brasil">
+    <title>Galinha Pintadinha Mini</title>
+  </programme>
+  <programme start="20251114082000 -0300" stop="20251114082500 -0300" channel="TV Brasil">
+    <title>Mundo Bita</title>
+  </programme>
+  <programme start="20251114082500 -0300" stop="20251114083500 -0300" channel="TV Brasil">
+    <title>Sonhos e Sapatilhas</title>
+  </programme>
+  <programme start="20251114083500 -0300" stop="20251114085000 -0300" channel="TV Brasil">
+    <title>Gildo</title>
+  </programme>
+  <programme start="20251114085000 -0300" stop="20251114085500 -0300" channel="TV Brasil">
+    <title>Mundo Bita</title>
+  </programme>
+  <programme start="20251114085500 -0300" stop="20251114090200 -0300" channel="TV Brasil">
+    <title>Conta Comigo</title>
+  </programme>
+  <programme start="20251114090200 -0300" stop="20251114090900 -0300" channel="TV Brasil">
+    <title>Conta Comigo</title>
+  </programme>
+  <programme start="20251114090900 -0300" stop="20251114091700 -0300" channel="TV Brasil">
+    <title>As Microaventuras de Tito e Muda</title>
+  </programme>
+  <programme start="20251114091700 -0300" stop="20251114093200 -0300" channel="TV Brasil">
+    <title>Bipo</title>
+  </programme>
+  <programme start="20251114093200 -0300" stop="20251114094100 -0300" channel="TV Brasil">
+    <title>O Diário de Mika</title>
+  </programme>
+  <programme start="20251114094100 -0300" stop="20251114095000 -0300" channel="TV Brasil">
+    <title>O Diário de Mika</title>
+  </programme>
+  <programme start="20251114095000 -0300" stop="20251114100200 -0300" channel="TV Brasil">
+    <title>Peixonauta</title>
+  </programme>
+  <programme start="20251114100200 -0300" stop="20251114101400 -0300" channel="TV Brasil">
+    <title>Pedrinho e a Chuteira da Sorte</title>
+  </programme>
+  <programme start="20251114101400 -0300" stop="20251114104500 -0300" channel="TV Brasil">
+    <title>Manual de Sobrevivência da Literatura Brasileira</title>
+  </programme>
+  <programme start="20251114104500 -0300" stop="20251114105700 -0300" channel="TV Brasil">
+    <title>Tuca, O Mestre Cuca</title>
+  </programme>
+  <programme start="20251114105700 -0300" stop="20251114111100 -0300" channel="TV Brasil">
+    <title>Passado da Hora</title>
+  </programme>
+  <programme start="20251114111100 -0300" stop="20251114113900 -0300" channel="TV Brasil">
+    <title>Meu Amigãozão</title>
+  </programme>
+  <programme start="20251114113900 -0300" stop="20251114115100 -0300" channel="TV Brasil">
+    <title>O Show da Luna</title>
+  </programme>
+  <programme start="20251114115100 -0300" stop="20251114120300 -0300" channel="TV Brasil">
+    <title>O Show da Luna</title>
+  </programme>
+  <programme start="20251114120300 -0300" stop="20251114121600 -0300" channel="TV Brasil">
+    <title>Historietas Assombradas</title>
+  </programme>
+  <programme start="20251114121600 -0300" stop="20251114123000 -0300" channel="TV Brasil">
+    <title>Boris e Rufus</title>
+  </programme>
+  <programme start="20251114123000 -0300" stop="20251114124500 -0300" channel="TV Brasil">
+    <title>Stadium - 1º Tempo</title>
+  </programme>
+  <programme start="20251114124500 -0300" stop="20251114133000 -0300" channel="TV Brasil">
+    <title>Repórter Brasil Tarde - Ao Vivo</title>
+  </programme>
+  <programme start="20251114133000 -0300" stop="20251114140000 -0300" channel="TV Brasil">
+    <title>Bem Bahia - TVE Bahia</title>
+  </programme>
+  <programme start="20251114140000 -0300" stop="20251114143000 -0300" channel="TV Brasil">
+    <title>Brasil Visto de Cima</title>
+  </programme>
+  <programme start="20251114143000 -0300" stop="20251114150000 -0300" channel="TV Brasil">
+    <title>Brasil Sobre Duas Rodas</title>
+  </programme>
+  <programme start="20251114150000 -0300" stop="20251114153000 -0300" channel="TV Brasil">
+    <title>Meu Pedaço Do Brasil</title>
+  </programme>
+  <programme start="20251114153000 -0300" stop="20251114160000 -0300" channel="TV Brasil">
+    <title>Expedições</title>
+  </programme>
+  <programme start="20251114160000 -0300" stop="20251114180000 -0300" channel="TV Brasil">
+    <title>Sem Censura</title>
+  </programme>
+  <programme start="20251114180000 -0300" stop="20251114183000 -0300" channel="TV Brasil">
+    <title>Brasil Visto de Cima</title>
+  </programme>
+  <programme start="20251114183000 -0300" stop="20251114190000 -0300" channel="TV Brasil">
+    <title>Stadium</title>
+  </programme>
+  <programme start="20251114190000 -0300" stop="20251114200000 -0300" channel="TV Brasil">
+    <title>Repórter Brasil</title>
+  </programme>
+  <programme start="20251114200000 -0300" stop="20251114210000 -0300" channel="TV Brasil">
+    <title>Sangue Oculto</title>
+  </programme>
+  <programme start="20251114210000 -0300" stop="20251114230000 -0300" channel="TV Brasil">
+    <title>Sessão de Cinema: O Estado das Coisas</title>
+  </programme>
+  <programme start="20251114230000 -0300" stop="20251114233000 -0300" channel="TV Brasil">
+    <title>Se Avexe Não</title>
+  </programme>
+  <programme start="20251114233000 -0300" stop="20251115013000 -0300" channel="TV Brasil">
+    <title>Sem Censura</title>
+  </programme>
+  <programme start="20251114000000 -0300" stop="20251114060000 -0300" channel="Canal Legislativo">
+    <title>Programação Canal Legislativo</title>
+  </programme>
+  <programme start="20251114060000 -0300" stop="20251114120000 -0300" channel="Canal Legislativo">
+    <title>Programação Canal Legislativo</title>
+  </programme>
+  <programme start="20251114120000 -0300" stop="20251114180000 -0300" channel="Canal Legislativo">
+    <title>Programação Canal Legislativo</title>
+  </programme>
+  <programme start="20251114180000 -0300" stop="20251115000000 -0300" channel="Canal Legislativo">
+    <title>Programação Canal Legislativo</title>
+  </programme>
+  <programme start="20251114000000 -0300" stop="20251114003800 -0300" channel="TV Escola">
+    <title>Hora Do Enem 2023</title>
+  </programme>
+  <programme start="20251114003800 -0300" stop="20251114010000 -0300" channel="TV Escola">
+    <title>Doc Universidade</title>
+  </programme>
+  <programme start="20251114010000 -0300" stop="20251114013000 -0300" channel="TV Escola">
+    <title>Inclusive Você: Oferta e Demanda</title>
+  </programme>
+  <programme start="20251114013000 -0300" stop="20251114020400 -0300" channel="TV Escola">
+    <title>Anthony Knivet</title>
+  </programme>
+  <programme start="20251114020400 -0300" stop="20251114032800 -0300" channel="TV Escola">
+    <title>Sessão Cinemateca: A Família Lero Lero</title>
+  </programme>
+  <programme start="20251114032800 -0300" stop="20251114040400 -0300" channel="TV Escola">
+    <title>Plano Sequência</title>
+  </programme>
+  <programme start="20251114040400 -0300" stop="20251114052000 -0300" channel="TV Escola">
+    <title>Especiais Diversos: 1817 A Revolução Esquecida</title>
+  </programme>
+  <programme start="20251114052000 -0300" stop="20251114060000 -0300" channel="TV Escola">
+    <title>Brasil 200</title>
+  </programme>
+  <programme start="20251114060000 -0300" stop="20251114060300 -0300" channel="TV Escola">
+    <title>Hino Nacional Brasileiro</title>
+  </programme>
+  <programme start="20251114060300 -0300" stop="20251114070100 -0300" channel="TV Escola">
+    <title>O Poder do Design</title>
+  </programme>
+  <programme start="20251114070100 -0300" stop="20251114074600 -0300" channel="TV Escola">
+    <title>Incluídos: Trabalhando Sem Preconceitos</title>
+  </programme>
+  <programme start="20251114074600 -0300" stop="20251114080200 -0300" channel="TV Escola">
+    <title>Arte Por Todos</title>
+  </programme>
+  <programme start="20251114080200 -0300" stop="20251114083000 -0300" channel="TV Escola">
+    <title>Sua Escola, Nossa Escola - Iniciação Matemática</title>
+  </programme>
+  <programme start="20251114083000 -0300" stop="20251114090000 -0300" channel="TV Escola">
+    <title>Ao Pé da Letra - Professores</title>
+  </programme>
+  <programme start="20251114090000 -0300" stop="20251114093700 -0300" channel="TV Escola">
+    <title>Hora Do Enem 2023</title>
+  </programme>
+  <programme start="20251114093700 -0300" stop="20251114094800 -0300" channel="TV Escola">
+    <title>A Oficina do Vovô</title>
+  </programme>
+  <programme start="20251114094800 -0300" stop="20251114100100 -0300" channel="TV Escola">
+    <title>Zou</title>
+  </programme>
+  <programme start="20251114100100 -0300" stop="20251114101600 -0300" channel="TV Escola">
+    <title>Fabulosas Coleções do Seu Gonçalo</title>
+  </programme>
+  <programme start="20251114101600 -0300" stop="20251114103000 -0300" channel="TV Escola">
+    <title>Fabulosas Coleções do Seu Gonçalo</title>
+  </programme>
+  <programme start="20251114103000 -0300" stop="20251114110000 -0300" channel="TV Escola">
+    <title>Os Exploradores de Kuont</title>
+  </programme>
+  <programme start="20251114110000 -0300" stop="20251114111400 -0300" channel="TV Escola">
+    <title>Grandes Cidades</title>
+  </programme>
+  <programme start="20251114111400 -0300" stop="20251114113000 -0300" channel="TV Escola">
+    <title>Grandes Cidades</title>
+  </programme>
+  <programme start="20251114113000 -0300" stop="20251114120000 -0300" channel="TV Escola">
+    <title>Mulheres De Macacão</title>
+  </programme>
+  <programme start="20251114120000 -0300" stop="20251114123100 -0300" channel="TV Escola">
+    <title>Nova Amazônia</title>
+  </programme>
+  <programme start="20251114123100 -0300" stop="20251114130000 -0300" channel="TV Escola">
+    <title>Leituras: Lourenço Cazarré</title>
+  </programme>
+  <programme start="20251114130000 -0300" stop="20251114140100 -0300" channel="TV Escola">
+    <title>Hora Do Enem 2023</title>
+  </programme>
+  <programme start="20251114140100 -0300" stop="20251114142000 -0300" channel="TV Escola">
+    <title>A Oficina do Vovô</title>
+  </programme>
+  <programme start="20251114142000 -0300" stop="20251114143200 -0300" channel="TV Escola">
+    <title>Guerreiros Da Amazônia</title>
+  </programme>
+  <programme start="20251114143200 -0300" stop="20251114144500 -0300" channel="TV Escola">
+    <title>Zou</title>
+  </programme>
+  <programme start="20251114144500 -0300" stop="20251114150000 -0300" channel="TV Escola">
+    <title>Zou</title>
+  </programme>
+  <programme start="20251114150000 -0300" stop="20251114163000 -0300" channel="TV Escola">
+    <title>Fabulosas Coleções do Seu Gonçalo</title>
+  </programme>
+  <programme start="20251114163000 -0300" stop="20251114170000 -0300" channel="TV Escola">
+    <title>Mulheres De Macacão</title>
+  </programme>
+  <programme start="20251114170000 -0300" stop="20251114173200 -0300" channel="TV Escola">
+    <title>Nova Amazônia</title>
+  </programme>
+  <programme start="20251114173200 -0300" stop="20251114180100 -0300" channel="TV Escola">
+    <title>Leituras: Lourenço Cazarré</title>
+  </programme>
+  <programme start="20251114180100 -0300" stop="20251114183000 -0300" channel="TV Escola">
+    <title>O Poder do Design</title>
+  </programme>
+  <programme start="20251114183000 -0300" stop="20251114190000 -0300" channel="TV Escola">
+    <title>Atividade</title>
+  </programme>
+  <programme start="20251114190000 -0300" stop="20251114193700 -0300" channel="TV Escola">
+    <title>Hora Do Enem 2023</title>
+  </programme>
+  <programme start="20251114193700 -0300" stop="20251114200700 -0300" channel="TV Escola">
+    <title>Viola Central</title>
+  </programme>
+  <programme start="20251114200700 -0300" stop="20251114204100 -0300" channel="TV Escola">
+    <title>Plano Sequência</title>
+  </programme>
+  <programme start="20251114204100 -0300" stop="20251114211100 -0300" channel="TV Escola">
+    <title>Brasil 200</title>
+  </programme>
+  <programme start="20251114211100 -0300" stop="20251114221300 -0300" channel="TV Escola">
+    <title>Sempre Um Bom Papo</title>
+  </programme>
+  <programme start="20251114221300 -0300" stop="20251114234800 -0300" channel="TV Escola">
+    <title>Sessão Cinemateca: Osso, Amor e Papagaios</title>
+  </programme>
+  <programme start="20251114234800 -0300" stop="20251115013000 -0300" channel="TV Escola">
+    <title>Meu País, Nosso Mundo</title>
+  </programme>
+  <programme start="20251114000000 -0300" stop="20251114003000 -0300" channel="TV Justiça">
+    <title>Repórter Eco</title>
+  </programme>
+  <programme start="20251114003000 -0300" stop="20251114010000 -0300" channel="TV Justiça">
+    <title>Repórter Justiça</title>
+  </programme>
+  <programme start="20251114010000 -0300" stop="20251114020000 -0300" channel="TV Justiça">
+    <title>Saber Direito - Aula</title>
+  </programme>
+  <programme start="20251114020000 -0300" stop="20251114030000 -0300" channel="TV Justiça">
+    <title>Saber Direito - Aula</title>
+  </programme>
+  <programme start="20251114030000 -0300" stop="20251114040000 -0300" channel="TV Justiça">
+    <title>Jornal da Justiça</title>
+  </programme>
+  <programme start="20251114040000 -0300" stop="20251114072200 -0300" channel="TV Justiça">
+    <title>Sessão do STF</title>
+  </programme>
+  <programme start="20251114072200 -0300" stop="20251114080000 -0300" channel="TV Justiça">
+    <title>Documentário Variado: CNJ Ações Que Fazem a Diferença</title>
+  </programme>
+  <programme start="20251114080000 -0300" stop="20251114085600 -0300" channel="TV Justiça">
+    <title>Saber Direito - Aula</title>
+  </programme>
+  <programme start="20251114085600 -0300" stop="20251114090000 -0300" channel="TV Justiça">
+    <title>Boletim Justiça Agora</title>
+  </programme>
+  <programme start="20251114090000 -0300" stop="20251114125800 -0300" channel="TV Justiça">
+    <title>Sessão do TST</title>
+  </programme>
+  <programme start="20251114125800 -0300" stop="20251114130000 -0300" channel="TV Justiça">
+    <title>Boletim Justiça Agora</title>
+  </programme>
+  <programme start="20251114130000 -0300" stop="20251114133000 -0300" channel="TV Justiça">
+    <title>Justiça em Questão</title>
+  </programme>
+  <programme start="20251114133000 -0300" stop="20251114135800 -0300" channel="TV Justiça">
+    <title>Interesse Público</title>
+  </programme>
+  <programme start="20251114135800 -0300" stop="20251114140000 -0300" channel="TV Justiça">
+    <title>Boletim Justiça Agora</title>
+  </programme>
+  <programme start="20251114140000 -0300" stop="20251114180000 -0300" channel="TV Justiça">
+    <title>Sessão do TSE</title>
+  </programme>
+  <programme start="20251114180000 -0300" stop="20251114190000 -0300" channel="TV Justiça">
+    <title>Jornal da Justiça</title>
+  </programme>
+  <programme start="20251114190000 -0300" stop="20251114193000 -0300" channel="TV Justiça">
+    <title>Artigo 5º</title>
+  </programme>
+  <programme start="20251114193000 -0300" stop="20251114200000 -0300" channel="TV Justiça">
+    <title>Interesse Público</title>
+  </programme>
+  <programme start="20251114200000 -0300" stop="20251114203000 -0300" channel="TV Justiça">
+    <title>Repórter Eco</title>
+  </programme>
+  <programme start="20251114203000 -0300" stop="20251114205800 -0300" channel="TV Justiça">
+    <title>Documentário Variado: CNJ Ações Que Fazem a Diferença</title>
+  </programme>
+  <programme start="20251114205800 -0300" stop="20251114210000 -0300" channel="TV Justiça">
+    <title>Boletim Justiça Agora</title>
+  </programme>
+  <programme start="20251114210000 -0300" stop="20251114220000 -0300" channel="TV Justiça">
+    <title>Saber Direito - Aula</title>
+  </programme>
+  <programme start="20251114220000 -0300" stop="20251114230000 -0300" channel="TV Justiça">
+    <title>Saber Direito - Aula</title>
+  </programme>
+  <programme start="20251114230000 -0300" stop="20251115000000 -0300" channel="TV Justiça">
+    <title>Jornal da Justiça</title>
+  </programme>
+  <programme start="20251114000000 -0300" stop="20251114015300 -0300" channel="TV Senado">
+    <title>Senadoc: Jango</title>
+  </programme>
+  <programme start="20251114015300 -0300" stop="20251114022700 -0300" channel="TV Senado">
+    <title>Senadoc: Uma Outra Independência - Ep. 1 - Um Herói Sem Rosto</title>
+  </programme>
+  <programme start="20251114022700 -0300" stop="20251114030000 -0300" channel="TV Senado">
+    <title>Senadoc: Uma Outra Independência - Ep. 2 - Outras Terras, Outras Gentes</title>
+  </programme>
+  <programme start="20251114030000 -0300" stop="20251114033000 -0300" channel="TV Senado">
+    <title>Em Discussão</title>
+  </programme>
+  <programme start="20251114033000 -0300" stop="20251114040000 -0300" channel="TV Senado">
+    <title>TV Senado Live</title>
+  </programme>
+  <programme start="20251114040000 -0300" stop="20251114043000 -0300" channel="TV Senado">
+    <title>Parlamento Brasil</title>
+  </programme>
+  <programme start="20251114043000 -0300" stop="20251114050000 -0300" channel="TV Senado">
+    <title>Assunto de Estado</title>
+  </programme>
+  <programme start="20251114050000 -0300" stop="20251114053000 -0300" channel="TV Senado">
+    <title>Agenda Econômica</title>
+  </programme>
+  <programme start="20251114053000 -0300" stop="20251114060000 -0300" channel="TV Senado">
+    <title>Salão Nobre</title>
+  </programme>
+  <programme start="20251114060000 -0300" stop="20251114070000 -0300" channel="TV Senado">
+    <title>Senadoc Acervo: Habitar/Habitat - Palafitas e Casas Flutuantes</title>
+  </programme>
+  <programme start="20251114070000 -0300" stop="20251114073000 -0300" channel="TV Senado">
+    <title>Tela Brasil: Sankofa, A África Que Te Habita - Ep. 8 - Nigéria</title>
+  </programme>
+  <programme start="20251114073000 -0300" stop="20251114080000 -0300" channel="TV Senado">
+    <title>Salão Nobre</title>
+  </programme>
+  <programme start="20251114080000 -0300" stop="20251114083000 -0300" channel="TV Senado">
+    <title>Cidadania</title>
+  </programme>
+  <programme start="20251114083000 -0300" stop="20251114090000 -0300" channel="TV Senado">
+    <title>Parlamento Brasil</title>
+  </programme>
+  <programme start="20251114090000 -0300" stop="20251114093000 -0300" channel="TV Senado">
+    <title>TV Senado Live</title>
+  </programme>
+  <programme start="20251114093000 -0300" stop="20251114133000 -0300" channel="TV Senado">
+    <title>Sessão Plenária</title>
+  </programme>
+  <programme start="20251114133000 -0300" stop="20251114140000 -0300" channel="TV Senado">
+    <title>Senado Notícias Revista</title>
+  </programme>
+  <programme start="20251114140000 -0300" stop="20251114193000 -0300" channel="TV Senado">
+    <title>Comissão</title>
+  </programme>
+  <programme start="20251114193000 -0300" stop="20251114200000 -0300" channel="TV Senado">
+    <title>Senado Notícias Revista</title>
+  </programme>
+  <programme start="20251114200000 -0300" stop="20251114203000 -0300" channel="TV Senado">
+    <title>Parlamento Brasil</title>
+  </programme>
+  <programme start="20251114203000 -0300" stop="20251114210000 -0300" channel="TV Senado">
+    <title>TV Senado Live</title>
+  </programme>
+  <programme start="20251114210000 -0300" stop="20251114215400 -0300" channel="TV Senado">
+    <title>Senadoc: Habitar/Habitat - Quilombola</title>
+  </programme>
+  <programme start="20251114215400 -0300" stop="20251114222200 -0300" channel="TV Senado">
+    <title>Senadoc: Libertárixs - Diáspora e Memória</title>
+  </programme>
+  <programme start="20251114222200 -0300" stop="20251114225000 -0300" channel="TV Senado">
+    <title>Senadoc: Libertárixs - Quilombos e Revoltas</title>
+  </programme>
+  <programme start="20251114225000 -0300" stop="20251115000000 -0300" channel="TV Senado">
+    <title>Senadoc: Sua Majestade o Rei do Ritmo - Jackson do Pandeiro</title>
+  </programme>
+  <programme start="20251114000000 -0300" stop="20251114060000 -0300" channel="Canal Comunitário">
+    <title>Canal Comunitário</title>
+  </programme>
+  <programme start="20251114000000 -0300" stop="20251114000500 -0300" channel="Canal Comunitário">
+    <title>Drops Cultural</title>
+  </programme>
+  <programme start="20251114000500 -0300" stop="20251114003000 -0300" channel="Canal Comunitário">
+    <title>TVCurtas</title>
+  </programme>
+  <programme start="20251114003000 -0300" stop="20251114004500 -0300" channel="Canal Comunitário">
+    <title>Contraponto Cinema</title>
+  </programme>
+  <programme start="20251114004500 -0300" stop="20251114020000 -0300" channel="Canal Comunitário">
+    <title>TVClipes</title>
+  </programme>
+  <programme start="20251114020000 -0300" stop="20251114023000 -0300" channel="Canal Comunitário">
+    <title>Aprender a Sonhar</title>
+  </programme>
+  <programme start="20251114023000 -0300" stop="20251114033000 -0300" channel="Canal Comunitário">
+    <title>Vento Sul</title>
+  </programme>
+  <programme start="20251114033000 -0300" stop="20251114040000 -0300" channel="Canal Comunitário">
+    <title>Fala Galera - Doc. Jovem</title>
+  </programme>
+  <programme start="20251114040000 -0300" stop="20251114043000 -0300" channel="Canal Comunitário">
+    <title>Sons de Minas</title>
+  </programme>
+  <programme start="20251114043000 -0300" stop="20251114050000 -0300" channel="Canal Comunitário">
+    <title>Gente Que é Gente</title>
+  </programme>
+  <programme start="20251114050000 -0300" stop="20251114050500 -0300" channel="Canal Comunitário">
+    <title>Drops Cultural</title>
+  </programme>
+  <programme start="20251114050500 -0300" stop="20251114054500 -0300" channel="Canal Comunitário">
+    <title>TVClipes</title>
+  </programme>
+  <programme start="20251114054500 -0300" stop="20251114060000 -0300" channel="Canal Comunitário">
+    <title>Contraponto Cinema</title>
+  </programme>
+  <programme start="20251114060000 -0300" stop="20251114120000 -0300" channel="Canal Comunitário">
+    <title>Canal Comunitário</title>
+  </programme>
+  <programme start="20251114060000 -0300" stop="20251114062500 -0300" channel="Canal Comunitário">
+    <title>TVCurtas</title>
+  </programme>
+  <programme start="20251114062500 -0300" stop="20251114063000 -0300" channel="Canal Comunitário">
+    <title>Drops Cultural</title>
+  </programme>
+  <programme start="20251114063000 -0300" stop="20251114070000 -0300" channel="Canal Comunitário">
+    <title>Memória TVC BH</title>
+  </programme>
+  <programme start="20251114070000 -0300" stop="20251114073000 -0300" channel="Canal Comunitário">
+    <title>Confirma</title>
+  </programme>
+  <programme start="20251114073000 -0300" stop="20251114080000 -0300" channel="Canal Comunitário">
+    <title>Brasil Eleitor</title>
+  </programme>
+  <programme start="20251114080000 -0300" stop="20251114083000 -0300" channel="Canal Comunitário">
+    <title>Pensamento Jurídico</title>
+  </programme>
+  <programme start="20251114083000 -0300" stop="20251114083500 -0300" channel="Canal Comunitário">
+    <title>Drops Cultural</title>
+  </programme>
+  <programme start="20251114083500 -0300" stop="20251114090000 -0300" channel="Canal Comunitário">
+    <title>TVClipes</title>
+  </programme>
+  <programme start="20251114090000 -0300" stop="20251114092000 -0300" channel="Canal Comunitário">
+    <title>Desde Junho</title>
+  </programme>
+  <programme start="20251114092000 -0300" stop="20251114092500 -0300" channel="Canal Comunitário">
+    <title>Drops Cultural</title>
+  </programme>
+  <programme start="20251114092500 -0300" stop="20251114100000 -0300" channel="Canal Comunitário">
+    <title>Fala Galera - Doc. Jovem</title>
+  </programme>
+  <programme start="20251114100000 -0300" stop="20251114103000 -0300" channel="Canal Comunitário">
+    <title>Via Justiça</title>
+  </programme>
+  <programme start="20251114103000 -0300" stop="20251114103500 -0300" channel="Canal Comunitário">
+    <title>Drops Cultural</title>
+  </programme>
+  <programme start="20251114103500 -0300" stop="20251114104000 -0300" channel="Canal Comunitário">
+    <title>Mino e Nina</title>
+  </programme>
+  <programme start="20251114104000 -0300" stop="20251114104500 -0300" channel="Canal Comunitário">
+    <title>Zora Curiosa</title>
+  </programme>
+  <programme start="20251114104500 -0300" stop="20251114110000 -0300" channel="Canal Comunitário">
+    <title>Blog da Mari</title>
+  </programme>
+  <programme start="20251114110000 -0300" stop="20251114113000 -0300" channel="Canal Comunitário">
+    <title>Sons de Minas</title>
+  </programme>
+  <programme start="20251114113000 -0300" stop="20251114113500 -0300" channel="Canal Comunitário">
+    <title>Drops Cultural</title>
+  </programme>
+  <programme start="20251114113500 -0300" stop="20251114123000 -0300" channel="Canal Comunitário">
+    <title>TVC Show</title>
+  </programme>
+  <programme start="20251114120000 -0300" stop="20251114180000 -0300" channel="Canal Comunitário">
+    <title>Canal Comunitário</title>
+  </programme>
+  <programme start="20251114123000 -0300" stop="20251114130000 -0300" channel="Canal Comunitário">
+    <title>Gente Que é Gente</title>
+  </programme>
+  <programme start="20251114130000 -0300" stop="20251114133000 -0300" channel="Canal Comunitário">
+    <title>Palavra Ética com Gilvander Moreira</title>
+  </programme>
+  <programme start="20251114133000 -0300" stop="20251114134500 -0300" channel="Canal Comunitário">
+    <title>Giramundo</title>
+  </programme>
+  <programme start="20251114134500 -0300" stop="20251114140000 -0300" channel="Canal Comunitário">
+    <title>Blog da Mari</title>
+  </programme>
+  <programme start="20251114140000 -0300" stop="20251114141000 -0300" channel="Canal Comunitário">
+    <title>Mino e Nina</title>
+  </programme>
+  <programme start="20251114141000 -0300" stop="20251114141500 -0300" channel="Canal Comunitário">
+    <title>Drops Cultural</title>
+  </programme>
+  <programme start="20251114141500 -0300" stop="20251114144500 -0300" channel="Canal Comunitário">
+    <title>Brasil Eleitor</title>
+  </programme>
+  <programme start="20251114144500 -0300" stop="20251114151500 -0300" channel="Canal Comunitário">
+    <title>Aprender a Sonhar</title>
+  </programme>
+  <programme start="20251114151500 -0300" stop="20251114152500 -0300" channel="Canal Comunitário">
+    <title>TVClipes</title>
+  </programme>
+  <programme start="20251114152500 -0300" stop="20251114153000 -0300" channel="Canal Comunitário">
+    <title>Drops Cultural</title>
+  </programme>
+  <programme start="20251114153000 -0300" stop="20251114160000 -0300" channel="Canal Comunitário">
+    <title>Pensamento Jurídico</title>
+  </programme>
+  <programme start="20251114160000 -0300" stop="20251114163000 -0300" channel="Canal Comunitário">
+    <title>Sons de Minas</title>
+  </programme>
+  <programme start="20251114163000 -0300" stop="20251114164500 -0300" channel="Canal Comunitário">
+    <title>Contraponto Cinema</title>
+  </programme>
+  <programme start="20251114164500 -0300" stop="20251114165500 -0300" channel="Canal Comunitário">
+    <title>TVClipes</title>
+  </programme>
+  <programme start="20251114165500 -0300" stop="20251114170000 -0300" channel="Canal Comunitário">
+    <title>Drops Cultural</title>
+  </programme>
+  <programme start="20251114170000 -0300" stop="20251114172500 -0300" channel="Canal Comunitário">
+    <title>TVCurtas</title>
+  </programme>
+  <programme start="20251114172500 -0300" stop="20251114173000 -0300" channel="Canal Comunitário">
+    <title>Drops Cultural</title>
+  </programme>
+  <programme start="20251114173000 -0300" stop="20251114223000 -0300" channel="Canal Comunitário">
+    <title>Tv Get</title>
+  </programme>
+  <programme start="20251114180000 -0300" stop="20251115000000 -0300" channel="Canal Comunitário">
+    <title>Canal Comunitário</title>
+  </programme>
+  <programme start="20251114223000 -0300" stop="20251114223500 -0300" channel="Canal Comunitário">
+    <title>Drops Cultural</title>
+  </programme>
+  <programme start="20251114223500 -0300" stop="20251114230000 -0300" channel="Canal Comunitário">
+    <title>Além da Notícia</title>
+  </programme>
+  <programme start="20251114230000 -0300" stop="20251114230500 -0300" channel="Canal Comunitário">
+    <title>Drops Cultural</title>
+  </programme>
+  <programme start="20251114230500 -0300" stop="20251114233000 -0300" channel="Canal Comunitário">
+    <title>TVClipes</title>
+  </programme>
+  <programme start="20251114233000 -0300" stop="20251115000000 -0300" channel="Canal Comunitário">
+    <title>Via Justiça</title>
+  </programme>
+  <programme start="20251114020000 -0300" stop="20251114021500 -0300" channel="TV Pai Eterno">
+    <title>Novena do Espírito Santo</title>
+  </programme>
+  <programme start="20251114021500 -0300" stop="20251114023000 -0300" channel="TV Pai Eterno">
+    <title>Alô Devoto</title>
+  </programme>
+  <programme start="20251114023000 -0300" stop="20251114030000 -0300" channel="TV Pai Eterno">
+    <title>Novena dos Filhos do Pai Eterno</title>
+  </programme>
+  <programme start="20251114030000 -0300" stop="20251114031500 -0300" channel="TV Pai Eterno">
+    <title>Terço da Misericórdia</title>
+  </programme>
+  <programme start="20251114031500 -0300" stop="20251114041500 -0300" channel="TV Pai Eterno">
+    <title>Pautas da Igreja</title>
+  </programme>
+  <programme start="20251114041500 -0300" stop="20251114043000 -0300" channel="TV Pai Eterno">
+    <title>Novena Ao Sagrado Coração de Jesus</title>
+  </programme>
+  <programme start="20251114043000 -0300" stop="20251114044500 -0300" channel="TV Pai Eterno">
+    <title>Alô Devoto</title>
+  </programme>
+  <programme start="20251114044500 -0300" stop="20251114050000 -0300" channel="TV Pai Eterno">
+    <title>Palavra da Salvação</title>
+  </programme>
+  <programme start="20251114050000 -0300" stop="20251114053000 -0300" channel="TV Pai Eterno">
+    <title>Novena dos Filhos do Pai Eterno</title>
+  </programme>
+  <programme start="20251114053000 -0300" stop="20251114060000 -0300" channel="TV Pai Eterno">
+    <title>Jovem Romeiro</title>
+  </programme>
+  <programme start="20251114060000 -0300" stop="20251114063000 -0300" channel="TV Pai Eterno">
+    <title>Terço da Família de Amor</title>
+  </programme>
+  <programme start="20251114063000 -0300" stop="20251114064000 -0300" channel="TV Pai Eterno">
+    <title>Mãe Maria</title>
+  </programme>
+  <programme start="20251114064000 -0300" stop="20251114065500 -0300" channel="TV Pai Eterno">
+    <title>Novena do Espírito Santo</title>
+  </programme>
+  <programme start="20251114065500 -0300" stop="20251114074500 -0300" channel="TV Pai Eterno">
+    <title>Santa Missa</title>
+  </programme>
+  <programme start="20251114074500 -0300" stop="20251114080000 -0300" channel="TV Pai Eterno">
+    <title>Novena Ao Sagrado Coração de Jesus</title>
+  </programme>
+  <programme start="20251114080000 -0300" stop="20251114090000 -0300" channel="TV Pai Eterno">
+    <title>Santo Café</title>
+  </programme>
+  <programme start="20251114090000 -0300" stop="20251114093000 -0300" channel="TV Pai Eterno">
+    <title>Novena do Perpétuo Socorro</title>
+  </programme>
+  <programme start="20251114093000 -0300" stop="20251114094500 -0300" channel="TV Pai Eterno">
+    <title>Alô Devoto</title>
+  </programme>
+  <programme start="20251114094500 -0300" stop="20251114100000 -0300" channel="TV Pai Eterno">
+    <title>Palavra da Salvação</title>
+  </programme>
+  <programme start="20251114100000 -0300" stop="20251114103000 -0300" channel="TV Pai Eterno">
+    <title>Novena dos Filhos do Pai Eterno</title>
+  </programme>
+  <programme start="20251114103000 -0300" stop="20251114114500 -0300" channel="TV Pai Eterno">
+    <title>Família de Amor</title>
+  </programme>
+  <programme start="20251114114500 -0300" stop="20251114120000 -0300" channel="TV Pai Eterno">
+    <title>Testemunha da Luz</title>
+  </programme>
+  <programme start="20251114120000 -0300" stop="20251114123000 -0300" channel="TV Pai Eterno">
+    <title>Novena dos Filhos do Pai Eterno</title>
+  </programme>
+  <programme start="20251114123000 -0300" stop="20251114130000 -0300" channel="TV Pai Eterno">
+    <title>Receita Do Padre</title>
+  </programme>
+  <programme start="20251114130000 -0300" stop="20251114133000 -0300" channel="TV Pai Eterno">
+    <title>Diálogos</title>
+  </programme>
+  <programme start="20251114133000 -0300" stop="20251114143000 -0300" channel="TV Pai Eterno">
+    <title>Aqui em Casa</title>
+  </programme>
+  <programme start="20251114143000 -0300" stop="20251114150000 -0300" channel="TV Pai Eterno">
+    <title>Novena do Perpétuo Socorro</title>
+  </programme>
+  <programme start="20251114150000 -0300" stop="20251114152000 -0300" channel="TV Pai Eterno">
+    <title>Terço da Misericórdia</title>
+  </programme>
+  <programme start="20251114152000 -0300" stop="20251114153500 -0300" channel="TV Pai Eterno">
+    <title>Alô Devoto</title>
+  </programme>
+  <programme start="20251114153500 -0300" stop="20251114164500 -0300" channel="TV Pai Eterno">
+    <title>Pai Passa na Frente</title>
+  </programme>
+  <programme start="20251114164500 -0300" stop="20251114171500 -0300" channel="TV Pai Eterno">
+    <title>Novena dos Filhos do Pai Eterno</title>
+  </programme>
+  <programme start="20251114171500 -0300" stop="20251114180000 -0300" channel="TV Pai Eterno">
+    <title>Terço Dos Filhos Do Pai Eterno</title>
+  </programme>
+  <programme start="20251114180000 -0300" stop="20251114190000 -0300" channel="TV Pai Eterno">
+    <title>Pautas da Igreja</title>
+  </programme>
+  <programme start="20251114190000 -0300" stop="20251114200000 -0300" channel="TV Pai Eterno">
+    <title>Santa Missa</title>
+  </programme>
+  <programme start="20251114200000 -0300" stop="20251114210000 -0300" channel="TV Pai Eterno">
+    <title>Boa Noite Meu Pai</title>
+  </programme>
+  <programme start="20251114210000 -0300" stop="20251114213000 -0300" channel="TV Pai Eterno">
+    <title>Novena dos Filhos do Pai Eterno</title>
+  </programme>
+  <programme start="20251114213000 -0300" stop="20251114223000 -0300" channel="TV Pai Eterno">
+    <title>Primeiro Plano</title>
+  </programme>
+  <programme start="20251114223000 -0300" stop="20251114230000 -0300" channel="TV Pai Eterno">
+    <title>Novena do Perpétuo Socorro</title>
+  </programme>
+  <programme start="20251114230000 -0300" stop="20251115020000 -0300" channel="TV Pai Eterno">
+    <title>Joias VIP</title>
+  </programme>
+  <programme start="20251114000000 -0300" stop="20251114003000 -0300" channel="TV Brasil 2">
+    <title>Voz do Brasil</title>
+  </programme>
+  <programme start="20251114003000 -0300" stop="20251114011500 -0300" channel="TV Brasil 2">
+    <title>Da Cúpula da Terra à COP 30</title>
+  </programme>
+  <programme start="20251114011500 -0300" stop="20251114030000 -0300" channel="TV Brasil 2">
+    <title>Atos do Executivo</title>
+  </programme>
+  <programme start="20251114030000 -0300" stop="20251114033000 -0300" channel="TV Brasil 2">
+    <title>Voz do Brasil</title>
+  </programme>
+  <programme start="20251114033000 -0300" stop="20251114041500 -0300" channel="TV Brasil 2">
+    <title>Da Cúpula da Terra à COP 30</title>
+  </programme>
+  <programme start="20251114041500 -0300" stop="20251114050000 -0300" channel="TV Brasil 2">
+    <title>Atos do Executivo</title>
+  </programme>
+  <programme start="20251114050000 -0300" stop="20251114053000 -0300" channel="TV Brasil 2">
+    <title>Olhares do Norte: Pará</title>
+  </programme>
+  <programme start="20251114053000 -0300" stop="20251114060000 -0300" channel="TV Brasil 2">
+    <title>Olhares do Norte: Pará</title>
+  </programme>
+  <programme start="20251114060000 -0300" stop="20251114063000 -0300" channel="TV Brasil 2">
+    <title>Voz do Brasil</title>
+  </programme>
+  <programme start="20251114063000 -0300" stop="20251114070000 -0300" channel="TV Brasil 2">
+    <title>Conta a Virada</title>
+  </programme>
+  <programme start="20251114070000 -0300" stop="20251114080000 -0300" channel="TV Brasil 2">
+    <title>Estúdio COP30</title>
+  </programme>
+  <programme start="20251114080000 -0300" stop="20251114084500 -0300" channel="TV Brasil 2">
+    <title>Atos do Executivo</title>
+  </programme>
+  <programme start="20251114084500 -0300" stop="20251114093000 -0300" channel="TV Brasil 2">
+    <title>Da Cúpula da Terra à COP 30</title>
+  </programme>
+  <programme start="20251114093000 -0300" stop="20251114100000 -0300" channel="TV Brasil 2">
+    <title>Brasil em Dia – Ao Vivo</title>
+  </programme>
+  <programme start="20251114100000 -0300" stop="20251114103000 -0300" channel="TV Brasil 2">
+    <title>Conta a Virada</title>
+  </programme>
+  <programme start="20251114103000 -0300" stop="20251114123000 -0300" channel="TV Brasil 2">
+    <title>Atos do Executivo</title>
+  </programme>
+  <programme start="20251114123000 -0300" stop="20251114130000 -0300" channel="TV Brasil 2">
+    <title>Brasil em Dia – Ao Vivo</title>
+  </programme>
+  <programme start="20251114130000 -0300" stop="20251114133000 -0300" channel="TV Brasil 2">
+    <title>Atos do Executivo</title>
+  </programme>
+  <programme start="20251114133000 -0300" stop="20251114140000 -0300" channel="TV Brasil 2">
+    <title>Conta a Virada</title>
+  </programme>
+  <programme start="20251114140000 -0300" stop="20251114144500 -0300" channel="TV Brasil 2">
+    <title>Da Cúpula da Terra à COP 30</title>
+  </programme>
+  <programme start="20251114144500 -0300" stop="20251114153000 -0300" channel="TV Brasil 2">
+    <title>Atos do Executivo</title>
+  </programme>
+  <programme start="20251114153000 -0300" stop="20251114154500 -0300" channel="TV Brasil 2">
+    <title>GOV Notícias</title>
+  </programme>
+  <programme start="20251114154500 -0300" stop="20251114170000 -0300" channel="TV Brasil 2">
+    <title>Atos do Executivo</title>
+  </programme>
+  <programme start="20251114170000 -0300" stop="20251114173000 -0300" channel="TV Brasil 2">
+    <title>Semana GOV</title>
+  </programme>
+  <programme start="20251114173000 -0300" stop="20251114183000 -0300" channel="TV Brasil 2">
+    <title>Atos do Executivo</title>
+  </programme>
+  <programme start="20251114183000 -0300" stop="20251114190000 -0300" channel="TV Brasil 2">
+    <title>Cine GOV</title>
+  </programme>
+  <programme start="20251114190000 -0300" stop="20251114193000 -0300" channel="TV Brasil 2">
+    <title>Voz do Brasil</title>
+  </programme>
+  <programme start="20251114193000 -0300" stop="20251114200000 -0300" channel="TV Brasil 2">
+    <title>PodCulturar</title>
+  </programme>
+  <programme start="20251114200000 -0300" stop="20251114210000 -0300" channel="TV Brasil 2">
+    <title>Atos do Executivo</title>
+  </programme>
+  <programme start="20251114210000 -0300" stop="20251114213000 -0300" channel="TV Brasil 2">
+    <title>Voz do Brasil</title>
+  </programme>
+  <programme start="20251114213000 -0300" stop="20251114220000 -0300" channel="TV Brasil 2">
+    <title>Cine GOV</title>
+  </programme>
+  <programme start="20251114220000 -0300" stop="20251114223000 -0300" channel="TV Brasil 2">
+    <title>Terra Viva</title>
+  </programme>
+  <programme start="20251114223000 -0300" stop="20251114230000 -0300" channel="TV Brasil 2">
+    <title>Terra Viva</title>
+  </programme>
+  <programme start="20251114230000 -0300" stop="20251115000000 -0300" channel="TV Brasil 2">
+    <title>Semana GOV</title>
+  </programme>
 </tv>
