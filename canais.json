@@ -1,0 +1,88 @@
+{
+  "atualizado_em": "2025-01-01T00:00:00",
+
+  "destaques": [
+    {
+      "id": "d1",
+      "tipo": "canal",
+      "referencia_id": "c1",
+      "titulo": "Globo HD",
+      "descricao": "Destaque de hoje na TV aberta",
+      "thumb": "https://exemplo.com/thumbs/globo.jpg"
+    },
+    {
+      "id": "d2",
+      "tipo": "filme",
+      "referencia_id": "f1",
+      "titulo": "Velozes & Furiosos",
+      "descricao": "Ação e velocidade sem limites",
+      "thumb": "https://exemplo.com/thumbs/vf.jpg"
+    }
+  ],
+
+  "canais": [
+    {
+      "id": "c1",
+      "nome": "Globo",
+      "categoria": "Aberta",
+      "logo": "https://exemplo.com/logos/globo.png",
+
+      "url": "https://exemplo.com/stream/globo.m3u8",
+
+      "qualidade": "1080p",
+      "idioma": "pt-BR",
+      "descricao": "Canal líder de audiência com jornalismo, novelas e esporte.",
+      "restrito": false,
+      "tags": ["Aberta", "Notícias", "Entretenimento"]
+    },
+
+    {
+      "id": "c2",
+      "nome": "SBT",
+      "categoria": "Aberta",
+      "logo": "https://exemplo.com/logos/sbt.png",
+
+      "url": "https://exemplo.com/stream/sbt.m3u8",
+
+      "qualidade": "720p",
+      "idioma": "pt-BR",
+      "descricao": "Variedades, entretenimento e programação clássica.",
+      "restrito": false,
+      "tags": ["Aberta", "Variedades"]
+    }
+  ],
+
+  "filmes": [
+    {
+      "id": "f1",
+      "titulo": "Velozes & Furiosos",
+      "genero": "Ação",
+      "thumb": "https://exemplo.com/thumbs/vf.jpg",
+
+      "url": "https://exemplo.com/filmes/vf.m3u8",
+
+      "qualidade": "1080p",
+      "idioma": "pt-BR",
+      "descricao": "Dominic Toretto e Brian O'Conner enfrentam uma nova ameaça.",
+      "duracao": 132,
+      "restrito": false,
+      "tags": ["Ação", "Carros", "Popular"]
+    },
+
+    {
+      "id": "f2",
+      "titulo": "Avatar",
+      "genero": "Ficção",
+      "thumb": "https://exemplo.com/thumbs/avatar.jpg",
+
+      "url": "https://exemplo.com/filmes/avatar.m3u8",
+
+      "qualidade": "4K",
+      "idioma": "en-US",
+      "descricao": "Um ex-fuzileiro se junta aos Na’vi para proteger Pandora.",
+      "duracao": 162,
+      "restrito": false,
+      "tags": ["Ficção", "Aventura", "Blockbuster"]
+    }
+  ]
+}
