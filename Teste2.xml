@@ -705,8 +705,8 @@
   <channel id="FilmArts HD">
     <display-name>FilmArts HD</display-name>
   </channel>
-  <channel id="Canal Brasil HD ³">
-    <display-name>Canal Brasil HD ³</display-name>
+  <channel id="Canal Brasil">
+    <display-name>Canal Brasil</display-name>
   </channel>
   <channel id="TNT HD ³">
     <display-name>TNT HD ³</display-name>
@@ -12888,73 +12888,73 @@
   <programme start="20251206233800 -0300" stop="20251207005300 -0300" channel="Viva HD">
     <title>Celebridade</title>
   </programme>
-  <programme start="20251206000000 -0300" stop="20251206020000 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206000000 -0300" stop="20251206020000 -0300" channel="Canal Brasil">
     <title>Cine Desejo: Dona Flor E Seus Dois Maridos (1976)</title>
   </programme>
-  <programme start="20251206020000 -0300" stop="20251206034500 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206020000 -0300" stop="20251206034500 -0300" channel="Canal Brasil">
     <title>Febre Do Rato</title>
   </programme>
-  <programme start="20251206034500 -0300" stop="20251206041000 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206034500 -0300" stop="20251206041000 -0300" channel="Canal Brasil">
     <title>Curta Na Tela: Os Últimos Românticos do Mundo</title>
   </programme>
-  <programme start="20251206041000 -0300" stop="20251206062000 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206041000 -0300" stop="20251206062000 -0300" channel="Canal Brasil">
     <title>Garotas Do Abc</title>
   </programme>
-  <programme start="20251206062000 -0300" stop="20251206075500 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206062000 -0300" stop="20251206075500 -0300" channel="Canal Brasil">
     <title>Cinema Novo</title>
   </programme>
-  <programme start="20251206075500 -0300" stop="20251206094500 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206075500 -0300" stop="20251206094500 -0300" channel="Canal Brasil">
     <title>Que Bom Te Ver Viva</title>
   </programme>
-  <programme start="20251206094500 -0300" stop="20251206100600 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206094500 -0300" stop="20251206100600 -0300" channel="Canal Brasil">
     <title>Curta Na Tela: Humberto Mauro (1970)</title>
   </programme>
-  <programme start="20251206100600 -0300" stop="20251206101500 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206100600 -0300" stop="20251206101500 -0300" channel="Canal Brasil">
     <title>Curta Na Tela: A Velha A Fiar</title>
   </programme>
-  <programme start="20251206101500 -0300" stop="20251206115000 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206101500 -0300" stop="20251206115000 -0300" channel="Canal Brasil">
     <title>Sambalanço - A Bossa Que Dança</title>
   </programme>
-  <programme start="20251206115000 -0300" stop="20251206133000 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206115000 -0300" stop="20251206133000 -0300" channel="Canal Brasil">
     <title>Os Trombadinhas</title>
   </programme>
-  <programme start="20251206133000 -0300" stop="20251206140000 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206133000 -0300" stop="20251206140000 -0300" channel="Canal Brasil">
     <title>Curta Na Tela: Cadê Heleny?</title>
   </programme>
-  <programme start="20251206140000 -0300" stop="20251206155500 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206140000 -0300" stop="20251206155500 -0300" channel="Canal Brasil">
     <title>O Segredo De Davi</title>
   </programme>
-  <programme start="20251206155500 -0300" stop="20251206161000 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206155500 -0300" stop="20251206161000 -0300" channel="Canal Brasil">
     <title>Esquinas - Pílulas</title>
   </programme>
-  <programme start="20251206161000 -0300" stop="20251206162000 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206161000 -0300" stop="20251206162000 -0300" channel="Canal Brasil">
     <title>Guard Dog  Bill Plympton No Brasil</title>
   </programme>
-  <programme start="20251206162000 -0300" stop="20251206183000 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206162000 -0300" stop="20251206183000 -0300" channel="Canal Brasil">
     <title>Zé</title>
   </programme>
-  <programme start="20251206183000 -0300" stop="20251206184500 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206183000 -0300" stop="20251206184500 -0300" channel="Canal Brasil">
     <title>Choque De Cultura</title>
   </programme>
-  <programme start="20251206184500 -0300" stop="20251206190000 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206184500 -0300" stop="20251206190000 -0300" channel="Canal Brasil">
     <title>Angeli - The Killer</title>
   </programme>
-  <programme start="20251206190000 -0300" stop="20251206191700 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206190000 -0300" stop="20251206191700 -0300" channel="Canal Brasil">
     <title>Curta Na Tela: Mantiqueira</title>
   </programme>
-  <programme start="20251206191700 -0300" stop="20251206193500 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206191700 -0300" stop="20251206193500 -0300" channel="Canal Brasil">
     <title>Curta Na Tela: Até A China</title>
   </programme>
-  <programme start="20251206193500 -0300" stop="20251206205000 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206193500 -0300" stop="20251206205000 -0300" channel="Canal Brasil">
     <title>Bizarros Peixes Das Fossas Abissais</title>
   </programme>
-  <programme start="20251206205000 -0300" stop="20251206230000 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206205000 -0300" stop="20251206230000 -0300" channel="Canal Brasil">
     <title>O Prisioneiro da Grade de Ferro</title>
   </programme>
-  <programme start="20251206230000 -0300" stop="20251206234000 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206230000 -0300" stop="20251206234000 -0300" channel="Canal Brasil">
     <title>O Natal Dos Silva</title>
   </programme>
-  <programme start="20251206234000 -0300" stop="20251207013500 -0300" channel="Canal Brasil HD ³">
+  <programme start="20251206234000 -0300" stop="20251207013500 -0300" channel="Canal Brasil">
     <title>Marte Um</title>
   </programme>
   <programme start="20251206002000 -0300" stop="20251206011000 -0300" channel="Discovery Turbo HD ³">
@@ -25975,3 +25975,4 @@
     <title>Steven Universo</title>
   </programme>
 </tv>
+
