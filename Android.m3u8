@@ -9,7 +9,7 @@ https://canallibras-stream.ebc.com.br/index.m3u8
 https://canallibras-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/CanalUol.png" group-title="Notícias",Canal Uol
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
-#EXTINF:-1 group-title="Notícias" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/CNNBrasilMoney.png",CNN Brasil Money
+#EXTINF:-1 group-title="Notícias" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/TCM.png",GNT
 https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
 #EXTINF:-1 group-title="Governamental",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
