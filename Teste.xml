@@ -28,7 +28,7 @@
   <!-- ======== PROGRAMAÇÃO DOS CANAIS ======== -->
 
   <!-- GLOBO -->
-  <programme channel="c1" start="20250101120000 +0000" stop="20250101130000 +0000">
+  <programme channel="c1" start="20251201000000 +0000" stop="20251231000000 +0000">
     <title>Notícias - Globo</title>
     <desc>Jornalismo, entretenimento e conteúdo informativo da Globo.</desc>
   </programme>
@@ -78,3 +78,4 @@
   </programme>
 
 </tv>
+
