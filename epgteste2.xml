@@ -4,78 +4,78 @@
 
   <channel id="canal1.teste">
     <display-name>Canal Um</display-name>
-    <icon src="https://via.placeholder.com/128x128.png?text=C1"/>
+    <icon src="https://via.placeholder.com/148x148.png?text=C1"/>
   </channel>
 
   <channel id="canal2.teste">
     <display-name>Canal Dois</display-name>
-    <icon src="https://via.placeholder.com/128x128.png?text=C2"/>
+    <icon src="https://via.placeholder.com/148x148.png?text=C2"/>
   </channel>
 
   <channel id="canal3.teste">
     <display-name>Canal Tres</display-name>
-    <icon src="https://via.placeholder.com/128x128.png?text=C3"/>
+    <icon src="https://via.placeholder.com/148x148.png?text=C3"/>
   </channel>
 
   <!-- Canal 1: cobre o dia todo em 4 blocos de 6h -->
-  <programme start="20260711000000 -0300" stop="20260711060000 -0300" channel="canal1.teste">
+  <programme start="20260713000000 -0300" stop="20260713060000 -0300" channel="canal1.teste">
     <title lang="pt">Madrugada Especial</title>
     <desc lang="pt">Reprise noturna do canal.</desc>
   </programme>
-  <programme start="20260711060000 -0300" stop="20260711120000 -0300" channel="canal1.teste">
+  <programme start="20260713060000 -0300" stop="20260713140000 -0300" channel="canal1.teste">
     <title lang="pt">Jornal da Manha</title>
     <desc lang="pt">Noticiario matinal.</desc>
   </programme>
-  <programme start="20260711120000 -0300" stop="20260711180000 -0300" channel="canal1.teste">
+  <programme start="20260713140000 -0300" stop="20260713180000 -0300" channel="canal1.teste">
     <title lang="pt">Tarde em Debate</title>
     <desc lang="pt">Programa de entrevistas.</desc>
   </programme>
-  <programme start="20260711180000 -0300" stop="20260712000000 -0300" channel="canal1.teste">
+  <programme start="20260713180000 -0300" stop="20260714000000 -0300" channel="canal1.teste">
     <title lang="pt">Cine Noite</title>
     <desc lang="pt">Sessao de filmes.</desc>
   </programme>
 
   <!-- Canal 2: mesmo padrao, titulos diferentes -->
-  <programme start="20260711000000 -0300" stop="20260711060000 -0300" channel="canal2.teste">
+  <programme start="20260713000000 -0300" stop="20260713060000 -0300" channel="canal2.teste">
     <title lang="pt">Replay Musical</title>
     <desc lang="pt">Os melhores clipes da semana.</desc>
   </programme>
-  <programme start="20260711060000 -0300" stop="20260711120000 -0300" channel="canal2.teste">
+  <programme start="20260713060000 -0300" stop="20260713140000 -0300" channel="canal2.teste">
     <title lang="pt">Cafe com Noticias</title>
     <desc lang="pt">Resumo dos principais fatos.</desc>
   </programme>
-  <programme start="20260711120000 -0300" stop="20260711180000 -0300" channel="canal2.teste">
+  <programme start="20260713140000 -0300" stop="20260713180000 -0300" channel="canal2.teste">
     <title lang="pt">Show da Tarde</title>
     <desc lang="pt">Variedades e entrevistas.</desc>
   </programme>
-  <programme start="20260711180000 -0300" stop="20260712000000 -0300" channel="canal2.teste">
+  <programme start="20260713180000 -0300" stop="20260714000000 -0300" channel="canal2.teste">
     <title lang="pt">Filme da Noite</title>
     <desc lang="pt">Longa-metragem em destaque.</desc>
   </programme>
 
   <!-- Canal 3: blocos menores (3h) so pra testar listas mais longas -->
-  <programme start="20260711000000 -0300" stop="20260711030000 -0300" channel="canal3.teste">
+  <programme start="20260713000000 -0300" stop="20260713030000 -0300" channel="canal3.teste">
     <title lang="pt">Reprise 1</title>
   </programme>
-  <programme start="20260711030000 -0300" stop="20260711060000 -0300" channel="canal3.teste">
+  <programme start="20260713030000 -0300" stop="20260713060000 -0300" channel="canal3.teste">
     <title lang="pt">Reprise 2</title>
   </programme>
-  <programme start="20260711060000 -0300" stop="20260711090000 -0300" channel="canal3.teste">
+  <programme start="20260713060000 -0300" stop="20260713090000 -0300" channel="canal3.teste">
     <title lang="pt">Manha Esportiva</title>
   </programme>
-  <programme start="20260711090000 -0300" stop="20260711120000 -0300" channel="canal3.teste">
+  <programme start="20260713090000 -0300" stop="20260713140000 -0300" channel="canal3.teste">
     <title lang="pt">Documentario</title>
   </programme>
-  <programme start="20260711120000 -0300" stop="20260711150000 -0300" channel="canal3.teste">
+  <programme start="20260713140000 -0300" stop="20260713150000 -0300" channel="canal3.teste">
     <title lang="pt">Almoco em Familia</title>
   </programme>
-  <programme start="20260711150000 -0300" stop="20260711180000 -0300" channel="canal3.teste">
+  <programme start="20260713150000 -0300" stop="20260713180000 -0300" channel="canal3.teste">
     <title lang="pt">Tarde Animada</title>
   </programme>
-  <programme start="20260711180000 -0300" stop="20260711210000 -0300" channel="canal3.teste">
+  <programme start="20260713180000 -0300" stop="20260713210000 -0300" channel="canal3.teste">
     <title lang="pt">Novela das Sete</title>
   </programme>
-  <programme start="20260711210000 -0300" stop="20260712000000 -0300" channel="canal3.teste">
+  <programme start="20260713210000 -0300" stop="20260714000000 -0300" channel="canal3.teste">
     <title lang="pt">Jornal da Noite</title>
   </programme>
 
