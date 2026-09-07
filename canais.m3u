@@ -1,0 +1,29 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro Mais" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/agromais.png" group-title="Abertos",Agro Mais
+http://45.177.114.115:80/agromais/index.m3u8
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro Mais" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/agromais.png" group-title="Abertos",Agro Mais
+http://45.190.28.50/AGROMAIS_HD/index.m3u8
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro Mais" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/agromais.png" group-title="Abertos",Agro Mais
+http://46.151.196.223:14075
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro Mais" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/agromais.png" group-title="Abertos",Agro Mais
+http://46.151.196.223:14077
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/amc.png" group-title="Filmes e Séries",AMC
+http://46.151.196.223:14636
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/amc.png" group-title="Filmes e Séries",AMC
+http://79.127.243.211:14565
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/amc.png" group-title="Filmes e Séries",AMC
+https://megaflix.mgfiles.lat/3513f168d2eda5dd82e5b2191ed5492e/file.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/animalplanet.png" group-title="Documentários",Animal Planet
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1179.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/animalplanet.png" group-title="Documentários",Animal Planet
+http://200.229.190.189:8002/play/a00x
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/animalplanet.png" group-title="Documentários",Animal Planet
+http://79.127.243.211:14370
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/animalplanet.png" group-title="Documentários",Animal Planet
+https://megaflix.mgfiles.lat/c87d9b108890cb2ce9de619034d886dd/file.m3u8
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/arte1.png" group-title="Variedades",Arte 1
+http://168.197.104.22:80/ARTE1/index.m3u8
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/arte1.png" group-title="Variedades",Arte 1
+http://170.83.16.50:80/ARTE_1/index.m3u8
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1" tvg-logo="https://raw.githubusercontent.com/VitorPaulino18/Listas/refs/heads/main/Logos/arte1.png" group-title="Variedades",Arte 1
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1178.ts
